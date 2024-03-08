@@ -42,6 +42,11 @@ export default function App() {
   }, []);
 
   const fetchMore = useCallback(async () => {
+    if(cards[page]?.length) {
+      setPage(page+1)
+      return;
+    }
+    
     setLoading(true);
     const response = await fetch(api_url);
     const data = await response.json();
@@ -57,6 +62,7 @@ export default function App() {
   }, [cards, page])
 
   console.log(cards);
+  console.log('page', page);
 
   return (
     <div className="App">
@@ -77,7 +83,7 @@ export default function App() {
           </div>
         ) : <>Loading</>}
         <div className="dac" style={{ padding: "2rem 0rem" }}>
-          <button className="btn disabled">&lt; Previous</button>
+          <button onClick={() => setPage(page-1)} className={"btn " + (loading || page === 1 ? 'disabled' : '')} disabled={loading || page === 1}>&lt; Previous</button>
 
           <p>Displaying 1 - 16 if 342 results</p>
 
