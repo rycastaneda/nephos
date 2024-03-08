@@ -1,0 +1,4491 @@
+{
+  "cards": [
+    {
+      "name": "Razia, Boros Archangel",
+      "manaCost": "{4}{R}{R}{W}{W}",
+      "cmc": 8.0,
+      "colors": ["R", "W"],
+      "colorIdentity": ["R", "W"],
+      "type": "Legendary Creature — Angel",
+      "supertypes": ["Legendary"],
+      "types": ["Creature"],
+      "subtypes": ["Angel"],
+      "rarity": "Rare",
+      "set": "HOP",
+      "setName": "Planechase",
+      "text": "Flying, vigilance, haste\n{T}: The next 3 damage that would be dealt to target creature you control this turn is dealt to another target creature instead.",
+      "flavor": "Her sword burns with such brightness that foes avert their eyes and arrows divert their paths.",
+      "artist": "Donato Giancola",
+      "number": "92",
+      "power": "6",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": "205362",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205362&type=card",
+      "rulings": [
+        {
+          "date": "2005-10-01",
+          "text": "The 3 damage doesn’t have to be from the same source, and it doesn’t have to be all dealt at once. If only 2 damage is redirected, the next 1 damage will also be redirected."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "If either target creature leaves the battlefield before damage is dealt, that damage won’t be redirected. It doesn’t matter if Razia leaves the battlefield."
+        }
+      ],
+      "printings": ["GK1", "HOP", "RAV"],
+      "originalText": "Flying, vigilance, haste\n{T}: The next 3 damage that would be dealt to target creature you control this turn is dealt to another target creature instead.",
+      "originalType": "Legendary Creature - Angel",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "082784df-8e55-55d3-9900-dde73e89c2ce"
+    },
+    {
+      "name": "Magnivore",
+      "manaCost": "{2}{R}{R}",
+      "cmc": 4.0,
+      "colors": ["R"],
+      "colorIdentity": ["R"],
+      "type": "Creature — Lhurgoyf",
+      "types": ["Creature"],
+      "subtypes": ["Lhurgoyf"],
+      "rarity": "Rare",
+      "set": "9ED",
+      "setName": "Ninth Edition",
+      "text": "Haste (This creature can attack and {T} as soon as it comes under your control.)\nMagnivore's power and toughness are each equal to the number of sorcery cards in all graveyards.",
+      "artist": "Carl Critchlow",
+      "number": "202",
+      "power": "*",
+      "toughness": "*",
+      "layout": "normal",
+      "multiverseid": "83448",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=83448&type=card",
+      "variations": ["49c0df5c-af0d-57da-9e3c-2dc634a27c27"],
+      "foreignNames": [
+        {
+          "name": "Machtmampfer",
+          "text": "Eile (Diese Kreatur kann in dem Zug, in dem sie unter deine Kontrolle kommt, angreifen.)\nStärke und Widerstandskraft des Machtmampfers sind gleich der Anzahl an Hexereikarten auf allen Friedhöfen.",
+          "type": "Kreatur — Lhurgoyf",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=98611&type=card",
+          "language": "German",
+          "multiverseid": 98611
+        },
+        {
+          "name": "Magnívoro",
+          "text": "Prisa. (Esta criatura puede atacar el turno en que entre bajo tu control.)\nTanto la fuerza como la resistencia del Magnívoro son iguales al número de cartas de conjuro que haya en todos los cementerios.",
+          "type": "Criatura — Lhurgoyf",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=100051&type=card",
+          "language": "Spanish",
+          "multiverseid": 100051
+        },
+        {
+          "name": "Magnivore",
+          "text": "Célérité (Cette créature peut attaquer dès le tour où elle arrive sous votre contrôle.)\nLa force et l'endurance du Magnivore sont chacune égale au nombre de cartes de rituel dans tous les cimetières.",
+          "type": "Créature : lhurgoyf",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=98251&type=card",
+          "language": "French",
+          "multiverseid": 98251
+        },
+        {
+          "name": "Magnivoro",
+          "text": "Rapidità (Questa creatura può attaccare nel turno in cui entra sotto il tuo controllo.)\nLa forza e la costituzione del Magnivoro sono pari ciascuna al numero di carte stregoneria presenti in tutti i cimiteri.",
+          "type": "Creatura — Lhurgoyf",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=98971&type=card",
+          "language": "Italian",
+          "multiverseid": 98971
+        },
+        {
+          "name": "猛烈に食うもの",
+          "text": "速攻 （このクリーチャーは、あなたのコントロール下になったターンに攻撃に参加してもよい。）\n猛烈に食うもののパワーとタフネスは、それぞれすべての墓地にあるソーサリー・カードの枚数に等しい。",
+          "type": "クリーチャー — ルアゴイフ",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=99331&type=card",
+          "language": "Japanese",
+          "multiverseid": 99331
+        },
+        {
+          "name": "Magnívoro",
+          "text": "Ímpeto (Esta criatura pode atacar no turno em que entra em jogo sob seu controle.)\nO poder e a resistência de Magnívoro são ambos iguais ao número de cards de feitiço em todos os cemitérios.",
+          "type": "Criatura — Lhurgoyf",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=99691&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 99691
+        },
+        {
+          "name": "Магнивор",
+          "text": "Ускорение (Это существо может нападать во время того хода, когда оно попало под ваш контроль).\nСила и здоровье Магнивора равняются числу карт волшебства на всех кладбищах.",
+          "type": "Существо — Лургойф",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=109962&type=card",
+          "language": "Russian",
+          "multiverseid": 109962
+        },
+        {
+          "name": "噬咒兽",
+          "text": "敏捷（你操控此生物的该回合中，它便可以攻击）\n噬咒兽的力量和防御力各等同于所有坟墓场中法术牌的数量。",
+          "type": "生物～拉高耶夫",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97891&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 97891
+        }
+      ],
+      "printings": ["9ED", "ODY"],
+      "originalText": "Haste (This creature may attack the turn it comes under your control.)\nMagnivore's power and toughness are each equal to the number of sorcery cards in all graveyards.",
+      "originalType": "Creature - Lhurgoyf",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "84c891f2-68e7-5822-afce-064a2fcf8dbb"
+    },
+    {
+      "name": "Spellheart Chimera",
+      "manaCost": "{1}{U}{R}",
+      "cmc": 3.0,
+      "colors": ["R", "U"],
+      "colorIdentity": ["R", "U"],
+      "type": "Creature — Chimera",
+      "types": ["Creature"],
+      "subtypes": ["Chimera"],
+      "rarity": "Uncommon",
+      "set": "THS",
+      "setName": "Theros",
+      "text": "Flying, trample\nSpellheart Chimera's power is equal to the number of instant and sorcery cards in your graveyard.",
+      "flavor": "Thaumaturges remain silent around chimeras, lest their words conjure even stranger beasts.",
+      "artist": "Svetlin Velinov",
+      "number": "204",
+      "power": "*",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": "373554",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373554&type=card",
+      "rulings": [
+        {
+          "date": "2013-09-15",
+          "text": "The ability that defines Spellheart Chimera's power functions in all zones, not just the battlefield."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Zauberherz-Chimäre",
+          "text": "Fliegend, verursacht Trampelschaden\nDie Stärke der Zauberherz-Chimäre ist gleich der Anzahl an Spontanzauber- und Hexerei-Karten in deinem Friedhof.",
+          "type": "Kreatur — Chimäre",
+          "flavor": "Thaumaturgen schweigen in Anwesenheit von Chimären, damit ihre Worte nicht noch seltsamere Wesen heraufbeschwören.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=374301&type=card",
+          "language": "German",
+          "multiverseid": 374301
+        },
+        {
+          "name": "Quimera almahechizada",
+          "text": "Vuela, arrolla.\nLa fuerza de la Quimera almahechizada es igual al número de cartas de instantáneo y de conjuro en tu cementerio.",
+          "type": "Criatura — Quimera",
+          "flavor": "Los taumaturgos guardan silencio en presencia de quimeras por temor a que sus palabras conjuren bestias aún más extrañas.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376044&type=card",
+          "language": "Spanish",
+          "multiverseid": 376044
+        },
+        {
+          "name": "Chimère au cœur magique",
+          "text": "Vol, piétinement\nLa force de la Chimère au cœur magique est égale au nombre de cartes d'éphémère et de rituel dans votre cimetière.",
+          "type": "Créature : chimère",
+          "flavor": "Les thaumaturges restent silencieux en présence des chimères : leurs paroles pourraient invoquer des êtres encore plus étranges.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=374550&type=card",
+          "language": "French",
+          "multiverseid": 374550
+        },
+        {
+          "name": "Chimera Infusa di Magia",
+          "text": "Volare, travolgere\nLa forza della Chimera Infusa di Magia è pari al numero di carte istantaneo e stregoneria nel tuo cimitero.",
+          "type": "Creatura — Chimera",
+          "flavor": "I taumaturghi rimangono silenziosi nelle vicinanze delle chimere, perché le loro parole non evochino bestie ancora più strane.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=374799&type=card",
+          "language": "Italian",
+          "multiverseid": 374799
+        },
+        {
+          "name": "魔心のキマイラ",
+          "text": "飛行、トランプル\n魔心のキマイラのパワーは、あなたの墓地にあるインスタント・カードとソーサリー・カードの総数に等しい。",
+          "type": "クリーチャー — キマイラ",
+          "flavor": "秘術師たちは、その言葉がより奇天烈な獣を呼び出すことを恐れ、キマイラの周辺では沈黙を守る。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=375048&type=card",
+          "language": "Japanese",
+          "multiverseid": 375048
+        },
+        {
+          "name": "마력심장 키메라",
+          "text": "비행, 돌진\n마력심장 키메라의 공격력은 당신의 무덤에 있는 순간마법과 집중마법 카드의 수의 합과 같다.",
+          "type": "생물 — 키메라",
+          "flavor": "마술사들은 함부로 혀를 놀리면 더 기괴한 야수가 만들어질까 두려워 키메라 주변에서는 침묵을 지킨다.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=375297&type=card",
+          "language": "Korean",
+          "multiverseid": 375297
+        },
+        {
+          "name": "Quimera Enfeitiçada",
+          "text": "Voar, atropelar\nO poder de Quimera Enfeitiçada é igual ao número de cards de mágica instantânea e feitiço em seu cemitério.",
+          "type": "Criatura — Quimera",
+          "flavor": "Os taumaturgos permanecem em silêncio perto das quimeras para evitar que suas palavras conjurem feras ainda mais estranhas.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=375546&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 375546
+        },
+        {
+          "name": "Колдовская Химера",
+          "text": "Полет, Пробивной удар\nСила Колдовской Химеры равна количеству карт мгновенных заклинаний и заклинаний волшебства на вашем кладбище.",
+          "type": "Существо — Химера",
+          "flavor": "Находясь рядом с химерами, тавматурги хранят молчание, чтобы своими словами не призвать еще более странных чудовищ.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=375795&type=card",
+          "language": "Russian",
+          "multiverseid": 375795
+        },
+        {
+          "name": "咒心盖美拉",
+          "text": "飞行，践踏\n咒心盖美拉的力量等同于你坟墓场中瞬间与法术牌的数量加总。",
+          "type": "生物～盖美拉",
+          "flavor": "奇术师在盖美拉周围保持缄默，唯恐他们的话语变出更奇怪的野兽。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373803&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 373803
+        },
+        {
+          "name": "咒心蓋美拉",
+          "text": "飛行，踐踏\n咒心蓋美拉的力量等同於你墳墓場中瞬間和巫術牌的數量加總。",
+          "type": "生物～蓋美拉",
+          "flavor": "奇術師在蓋美拉周圍保持緘默，唯恐他們的話語變出更奇怪的野獸。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=374052&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 374052
+        }
+      ],
+      "printings": ["C16", "DDS", "THS"],
+      "originalText": "Flying, trample\nSpellheart Chimera's power is equal to the number of instant and sorcery cards in your graveyard.",
+      "originalType": "Creature — Chimera",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Restricted"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "f82ee6ab-7903-5b66-9713-caa2e0ba6dfd"
+    },
+    {
+      "name": "Crystalline Giant",
+      "manaCost": "{3}",
+      "cmc": 3.0,
+      "type": "Artifact Creature — Giant",
+      "types": ["Artifact", "Creature"],
+      "subtypes": ["Giant"],
+      "rarity": "Rare",
+      "set": "IKO",
+      "setName": "Ikoria: Lair of Behemoths",
+      "text": "At the beginning of combat on your turn, choose a kind of counter at random that Crystalline Giant doesn't have on it from among flying, first strike, deathtouch, hexproof, lifelink, menace, reach, trample, vigilance, and +1/+1. Put a counter of that kind on Crystalline Giant.",
+      "artist": "Jason Rainville",
+      "number": "361",
+      "power": "3",
+      "toughness": "3",
+      "layout": "normal",
+      "variations": [
+        "f81c079e-64da-596c-9777-fdd7c06c3010",
+        "f192bfef-50ef-535f-818e-b8a57f93a498"
+      ],
+      "rulings": [
+        {
+          "date": "2020-04-17",
+          "text": "You choose a kind of counter at random and put it on Crystalline Giant all while its ability is resolving. Players can't take actions between the time the choice is made and the time Crystalline Giant has the counter."
+        },
+        {
+          "date": "2020-04-17",
+          "text": "As long as Crystalline Giant doesn't have all ten of the listed counters on it, you'll put one on it at the beginning of combat on your turn. If it has all ten kinds, the ability will trigger but you won't put any counter on it."
+        },
+        {
+          "date": "2020-04-17",
+          "text": "If Crystalline Giant has one of the listed keywords but not because of a counter of that kind, that kind of counter is still eligible to be chosen at random."
+        }
+      ],
+      "printings": ["IKO", "NCC", "PIKO", "PRM"],
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Explorer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Gladiator",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historicbrawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "3ba9d8e5-055d-5fc5-b1ec-6d2a5637819e"
+    },
+    {
+      "name": "Cinder Hellion",
+      "manaCost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": ["R"],
+      "colorIdentity": ["R"],
+      "type": "Creature — Hellion",
+      "types": ["Creature"],
+      "subtypes": ["Hellion"],
+      "rarity": "Common",
+      "set": "MB1",
+      "setName": "Mystery Booster",
+      "text": "Trample\nWhen Cinder Hellion enters the battlefield, it deals 2 damage to target opponent or planeswalker.",
+      "flavor": "Chandra used jets of flame to lure hellions into the path of oncoming Eldrazi.",
+      "artist": "Jason Kang",
+      "number": "888",
+      "power": "4",
+      "toughness": "4",
+      "layout": "normal",
+      "printings": ["MB1", "OGW"],
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "ab095446-a120-5a3e-89ee-992a6f9454c3"
+    },
+    {
+      "name": "Protean Hulk",
+      "manaCost": "{5}{G}{G}",
+      "cmc": 7.0,
+      "colors": ["G"],
+      "colorIdentity": ["G"],
+      "type": "Creature — Beast",
+      "types": ["Creature"],
+      "subtypes": ["Beast"],
+      "rarity": "Rare",
+      "set": "A25",
+      "setName": "Masters 25",
+      "text": "When Protean Hulk dies, search your library for any number of creature cards with total mana value 6 or less, put them onto the battlefield, then shuffle.",
+      "flavor": "\"Meat *and* eggs. We eat!\"\n—Borborygmos",
+      "artist": "Matt Cavotta",
+      "number": "185",
+      "power": "6",
+      "toughness": "6",
+      "layout": "normal",
+      "multiverseid": "442174",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=442174&type=card",
+      "watermark": "set (DIS)",
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "If a card in your library has {X} in its mana cost, X is considered to be 0."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "You can find any number of creature cards, so long as their total converted mana cost is 6 or less. For example, you could find eight creature cards with converted mana cost 0 and three with converted mana cost 2, but you couldn’t find two with converted mana cost 4."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "変幻の大男",
+          "text": "変幻の大男が死亡したとき、あなたのライブラリーから望む枚数のクリーチャー・カードを、点数で見たマナ・コストの合計が６以下になるように探し、それらを戦場に出す。その後あなたのライブラリーを切り直す。",
+          "type": "クリーチャー — ビースト",
+          "flavor": "「肉と、それから卵だ。食うぞ！」 ――腹音鳴らし",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=442423&type=card",
+          "language": "Japanese",
+          "multiverseid": 442423
+        },
+        {
+          "name": "变化巨兽",
+          "text": "当变化巨兽死去时，从你的牌库中搜寻任意数量的生物牌，且这些牌总法术力费用的总和须等于或小于6，并将它们放进战场。然后将你的牌库洗牌。",
+          "type": "生物 ～野兽",
+          "flavor": "「有肉有蛋。吃！」 ～咕噜力莫",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=442672&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 442672
+        }
+      ],
+      "printings": ["A25", "DIS", "GK2", "SLD", "TD2"],
+      "originalText": "When Protean Hulk dies, search your library for any number of creature cards with total converted mana cost 6 or less and put them onto the battlefield. Then shuffle your library.",
+      "originalType": "Creature — Beast",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Banned"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "1682dd99-ad66-5481-9a87-94f4a1548d28"
+    },
+    {
+      "name": "Lord of the Undead",
+      "manaCost": "{1}{B}{B}",
+      "cmc": 3.0,
+      "colors": ["B"],
+      "colorIdentity": ["B"],
+      "type": "Creature — Zombie",
+      "types": ["Creature"],
+      "subtypes": ["Zombie"],
+      "rarity": "Rare",
+      "set": "PSAL",
+      "setName": "Salvat 2005",
+      "text": "Other Zombie creatures get +1/+1.\n{1}{B}, {T}: Return target Zombie card from your graveyard to your hand.",
+      "artist": "Brom",
+      "number": "F1",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "rulings": [
+        {
+          "date": "2005-08-01",
+          "text": "Lord of the Undead now has the Zombie creature type and its first ability has been reworded to affect *other* Zombies. This means that if two Lord of the Undead are on the battlefield, each gives the other a bonus."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Señor de los muertos vivientes",
+          "flavor": null,
+          "language": "Spanish",
+          "multiverseid": null
+        },
+        {
+          "name": "Seigneur des mort-vivants",
+          "flavor": null,
+          "language": "French",
+          "multiverseid": null
+        },
+        {
+          "name": "Signore dei Non Morti",
+          "flavor": null,
+          "language": "Italian",
+          "multiverseid": null
+        }
+      ],
+      "printings": ["10E", "8ED", "9ED", "PLIST", "PLS", "PSAL", "SLD"],
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "98cc8458-2632-513c-8d5c-47fc4abaf7f2"
+    },
+    {
+      "name": "Fey Steed",
+      "manaCost": "{2}{W}{W}",
+      "cmc": 4.0,
+      "colors": ["W"],
+      "colorIdentity": ["W"],
+      "type": "Creature — Elk",
+      "types": ["Creature"],
+      "subtypes": ["Elk"],
+      "rarity": "Rare",
+      "set": "AFC",
+      "setName": "Forgotten Realms Commander",
+      "text": "Whenever Fey Steed attacks, another target attacking creature you control gains indestructible until end of turn.\nWhenever a creature or planeswalker you control becomes the target of a spell or ability an opponent controls, you may draw a card.",
+      "artist": "Jonathan Kuo",
+      "number": "274",
+      "power": "4",
+      "toughness": "4",
+      "layout": "normal",
+      "multiverseid": "531494",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=531494&type=card",
+      "variations": ["0396490f-bb1c-521f-945f-addeb54122a6"],
+      "foreignNames": [
+        {
+          "name": "Feenstute",
+          "text": "Immer wenn die Feenstute angreift, erhält eine andere angreifende Kreatur deiner Wahl, die du kontrollierst, Unzerstörbarkeit bis zum Ende des Zuges.\nImmer wenn eine Kreatur oder ein Planeswalker, die bzw. den du kontrollierst, das Ziel eines Zauberspruchs oder einer Fähigkeit wird, den bzw. die ein Gegner kontrolliert, kannst du eine Karte ziehen.",
+          "type": "Kreatur — Hirsch",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=531550&type=card",
+          "language": "German",
+          "multiverseid": 531550
+        },
+        {
+          "name": "Montura feérica",
+          "text": "Siempre que la Montura feérica ataque, otra criatura atacante objetivo que controlas gana la habilidad de indestructible hasta el final del turno.\nSiempre que una criatura o planeswalker que controlas sea objetivo de un hechizo o habilidad que controla un oponente, puedes robar una carta.",
+          "type": "Criatura — Alce",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=531606&type=card",
+          "language": "Spanish",
+          "multiverseid": 531606
+        },
+        {
+          "name": "Destrier de la Féerie",
+          "text": "À chaque fois que le Destrier de la Féerie attaque, une autre créature attaquante ciblée que vous contrôlez acquiert l'indestructible jusqu'à la fin du tour.\nÀ chaque fois qu'une créature ou qu'un planeswalker que vous contrôlez devient la cible d'un sort ou d'une capacité qu'un adversaire contrôle, vous pouvez piocher une carte.",
+          "type": "Créature : élan",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=531662&type=card",
+          "language": "French",
+          "multiverseid": 531662
+        },
+        {
+          "name": "Destriero Fatato",
+          "text": "Ogniqualvolta il Destriero Fatato attacca, un'altra creatura attaccante bersaglio che controlli ha indistruttibile fino alla fine del turno.\nOgniqualvolta una creatura o un planeswalker che controlli diventano bersaglio di una magia o abilità controllata da un avversario, puoi pescare una carta.",
+          "type": "Creatura — Alce",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=531718&type=card",
+          "language": "Italian",
+          "multiverseid": 531718
+        },
+        {
+          "name": "フェイの騎獣",
+          "text": "フェイの騎獣が攻撃するたび、これ以外であなたがコントロールしている攻撃クリーチャー１体を対象とする。ターン終了時まで、それは破壊不能を得る。\nあなたがコントロールしているクリーチャーやプレインズウォーカーのうち１つが、対戦相手がコントロールしている呪文や能力の対象になるたび、あなたはカード１枚を引いてもよい。",
+          "type": "クリーチャー — 大鹿",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=531774&type=card",
+          "language": "Japanese",
+          "multiverseid": 531774
+        }
+      ],
+      "printings": ["AFC"],
+      "originalText": "Whenever Fey Steed attacks, another target attacking creature you control gains indestructible until end of turn.\nWhenever a creature or planeswalker you control becomes the target of a spell or ability an opponent controls, you may draw a card.",
+      "originalType": "Creature — Elk",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "bd5e2622-76fd-5a12-bb61-79b1dab12e7c"
+    },
+    {
+      "name": "Doomskar Oracle",
+      "manaCost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": ["W"],
+      "colorIdentity": ["W"],
+      "type": "Creature — Human Cleric",
+      "types": ["Creature"],
+      "subtypes": ["Human", "Cleric"],
+      "rarity": "Common",
+      "set": "KHM",
+      "setName": "Kaldheim",
+      "text": "Whenever you cast your second spell each turn, you gain 2 life.\nForetell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
+      "flavor": "\"Giants and monsters loom on the horizon, and the elves plan to murder our gods!\"",
+      "artist": "Taylor Ingvarsson",
+      "number": "10",
+      "power": "3",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": "503614",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=503614&type=card",
+      "watermark": "foretell",
+      "rulings": [
+        {
+          "date": "2021-02-05",
+          "text": "Because exiling a card with foretell from your hand is a special action, you can do so any time you have priority during your turn, including in response to spells and abilities. Once you announce you’re taking the action, no other player can respond by trying to remove the card from your hand."
+        },
+        {
+          "date": "2021-02-05",
+          "text": "Casting a foretold card from exile follows the timing rules for that card. If you foretell an instant card, you can cast it as soon as the next player’s turn. In most cases, if you foretell a card that isn’t an instant (or doesn’t have flash), you’ll have to wait until your next turn to cast it."
+        },
+        {
+          "date": "2021-02-05",
+          "text": "If you’re casting a foretold card from exile for its foretell cost, you can’t choose to cast it for any other alternative costs. You can, however, pay additional costs, such as kicker costs. If the card has any mandatory additional costs, those must be paid to cast the spell."
+        },
+        {
+          "date": "2021-02-05",
+          "text": "The triggered ability can trigger only once each turn. The ability will resolve before the second spell does. It doesn’t matter if the first spell you cast that turn has resolved, was countered, or is still on the stack."
+        },
+        {
+          "date": "2021-02-05",
+          "text": "The triggered ability triggers only if the creature that has it is on the battlefield as you cast your second spell. Spells you cast in a turn before that creature entered the battlefield will count. In other words, the ability won’t trigger if the creature with the ability is the second spell you cast during a turn or if you have already cast two or more spells by the time that creature enters the battlefield that turn."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Doomskar-Orakel",
+          "text": "Immer wenn du deinen zweiten Zauberspruch innerhalb desselben Zuges wirkst, erhältst du 2 Lebenspunkte dazu.\nVorherbestimmung {W} (Während deines Zuges kannst du {2} bezahlen und diese Karte aus deiner Hand verdeckt ins Exil schicken. Wirke sie in einem späteren Zug für ihre Vorherbestimmungskosten.)",
+          "type": "Kreatur — Mensch, Kleriker",
+          "flavor": "„Riesen und Monster drohen am Horizont, und die Elfen wollen unsere Götter ermorden!\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=503915&type=card",
+          "language": "German",
+          "multiverseid": 503915
+        },
+        {
+          "name": "Oráculo de ruinaskar",
+          "text": "Siempre que lances tu segundo hechizo cada turno, ganas 2 vidas.\nProfetizar {W}. (Durante tu turno, puedes pagar {2} y exiliar esta carta de tu mano boca abajo. Puedes lanzarla en un turno posterior pagando su coste de profetizar.)",
+          "type": "Criatura — Clérigo humano",
+          "flavor": "\"¡Hay gigantes y monstruos que se ciernen sobre nosotros en el horizonte y los elfos maquinan asesinar a nuestros dioses!\".",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=504216&type=card",
+          "language": "Spanish",
+          "multiverseid": 504216
+        },
+        {
+          "name": "Oracle du domeskar",
+          "text": "À chaque fois que vous lancez votre deuxième sort à chaque tour, vous gagnez 2 points de vie.\nPrédiction {W} (Pendant votre tour, vous pouvez payer {2} et exiler cette carte depuis votre main face cachée. Lancez-la pendant un autre tour pour son coût de prédiction.)",
+          "type": "Créature : humain et clerc",
+          "flavor": "« La menace des géants et des monstres plane à l'horizon, et les elfes veulent assassiner nos dieux ! »",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=504517&type=card",
+          "language": "French",
+          "multiverseid": 504517
+        },
+        {
+          "name": "Oracolo della Collisione",
+          "text": "Ogniqualvolta lanci la tua seconda magia in ogni turno, guadagni 2 punti vita.\nPredire {W} (Durante il tuo turno, puoi pagare {2} ed esiliare questa carta dalla tua mano a faccia in giù. Lanciala in un turno successivo per il suo costo di predire.)",
+          "type": "Creatura — Chierico Umano",
+          "flavor": "\"Giganti e mostri incombono minacciosi all'orizzonte e gli elfi tramano per uccidere i nostri dei!\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=504818&type=card",
+          "language": "Italian",
+          "multiverseid": 504818
+        },
+        {
+          "name": "ドゥームスカールの神託者",
+          "text": "あなたが各ターンのあなたの２つ目の呪文を唱えるたび、あなたは２点のライフを得る。\n予顕{W}（あなたのターンの間、あなたは{2}を支払って、あなたの手札からこのカードを裏向きに追放してもよい。後のターンに、これの予顕コストでこれを唱えてもよい。）",
+          "type": "クリーチャー — 人間・クレリック",
+          "flavor": "「巨人や怪物どもが地平から姿を現しつつあり、エルフに至っては我らの神々を殺めんと目論んでいる！」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=505119&type=card",
+          "language": "Japanese",
+          "multiverseid": 505119
+        },
+        {
+          "name": "둠스카르 예언자",
+          "text": "당신이 매 턴 당신의 두 번째 주문을 발동할 때마다, 당신은 생명 2점을 얻는다.\n예고 {W} (당신의 턴 동안, 당신은 {2}를 지불하고 이 카드를 당신의 손에서 뒷면 상태로 추방할 수 있다. 다음 턴부터 예고 비용을 지불해 이 카드를 발동할 수 있다.)",
+          "type": "생물 — 인간 성직자",
+          "flavor": "\"지평선 위에서는 거인과 괴물들이 어른거리고, 엘프는 우리의 신들을 죽이려 하고 있다!\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=505420&type=card",
+          "language": "Korean",
+          "multiverseid": 505420
+        },
+        {
+          "name": "Oráculo do Doomskar",
+          "text": "Toda vez que você conjura sua segunda mágica em cada turno, você ganha 2 pontos de vida.\nProfetizar {W} (Durante o seu turno, você pode pagar {2} e exilar este card de sua mão voltado para baixo. Conjure-o em um turno posterior pagando seu custo de profetizar.)",
+          "type": "Criatura — Humano Clérigo",
+          "flavor": "\"Gigantes e monstros assomam no horizonte e os elfos planejam assassinar nossos deuses!\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=505721&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 505721
+        },
+        {
+          "name": "Оракул Думскара",
+          "text": "Каждый раз, когда вы разыгрываете ваше второе заклинание в каждом ходу, вы получаете 2 жизни.\nПророчество {W} (Во время вашего хода вы можете заплатить {2} и изгнать эту карту из вашей руки рубашкой вверх. Разыграйте ее во время одного из последующих ходов за ее стоимость Пророчества.)",
+          "type": "Существо — Человек Священник",
+          "flavor": "«Великаны и чудовища уже маячат на горизонте, а эльфы задумали убить наших богов!»",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=506022&type=card",
+          "language": "Russian",
+          "multiverseid": 506022
+        },
+        {
+          "name": "末日劫先知",
+          "text": "每当你施放每回合中你的第二个咒语时，你获得2点生命。\n预示{W}（在你的回合中，你可以支付{2}并从你手上牌面朝下地放逐此牌。过了该回合后，便可利用其预示费用来施放之。）",
+          "type": "生物 ～人类／僧侣",
+          "flavor": "「天边已然隐现巨人怪物，而妖精居然还想去弑神！」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=506323&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 506323
+        },
+        {
+          "name": "末日劫先知",
+          "text": "每當你施放每回合中你的第二個咒語時，你獲得2點生命。\n預示{W}（在你的回合中，你可以支付{2}並從你手上牌面朝下地放逐此牌。過了該回合後，便可利用其預示費用來施放之。）",
+          "type": "生物 ～人類／僧侶",
+          "flavor": "「天邊已然隱現巨人怪物，而妖精居然還想去弒神！」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=506624&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 506624
+        }
+      ],
+      "printings": ["KHM"],
+      "originalText": "Whenever you cast your second spell each turn, you gain 2 life.\nForetell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
+      "originalType": "Creature — Human Cleric",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Explorer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Gladiator",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historicbrawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "a66eba61-8efb-5734-ab72-35bfbac9b827"
+    },
+    {
+      "name": "Oathsworn Knight",
+      "manaCost": "{1}{B}{B}",
+      "cmc": 3.0,
+      "colors": ["B"],
+      "colorIdentity": ["B"],
+      "type": "Creature — Human Knight",
+      "types": ["Creature"],
+      "subtypes": ["Human", "Knight"],
+      "rarity": "Rare",
+      "set": "ELD",
+      "setName": "Throne of Eldraine",
+      "text": "Oathsworn Knight enters the battlefield with four +1/+1 counters on it.\nOathsworn Knight attacks each combat if able.\nIf damage would be dealt to Oathsworn Knight while it has a +1/+1 counter on it, prevent that damage and remove a +1/+1 counter from it.",
+      "artist": "Svetlin Velinov",
+      "number": "354",
+      "power": "0",
+      "toughness": "0",
+      "layout": "normal",
+      "variations": ["78db89fe-e6e4-502e-9571-11e131189fb9"],
+      "rulings": [
+        {
+          "date": "2019-10-04",
+          "text": "If Oathsworn Knight can't attack for any reason (such as being tapped or having come under that player's control that turn), then it doesn't attack. If there's a cost associated with having it attack, its controller isn't forced to pay that cost, so it doesn't have to attack in that case either."
+        },
+        {
+          "date": "2019-10-04",
+          "text": "Oathsworn Knight's last ability removes only one counter from it each time it would be dealt damage, not one counter per 1 damage prevented."
+        },
+        {
+          "date": "2019-10-04",
+          "text": "If multiple sources would deal damage to Oathsworn Knight simultaneously (for example, multiple creatures blocking it), its last ability applies once. All of that damage is prevented, and only one counter is removed."
+        },
+        {
+          "date": "2019-10-04",
+          "text": "If damage that can't be prevented is dealt to Oathsworn Knight, one counter is still removed from it."
+        }
+      ],
+      "printings": ["ELD", "PELD"],
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Explorer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Gladiator",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historicbrawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "5d4140fa-b08b-5591-86f7-d757191ae43a"
+    },
+    {
+      "name": "Kozilek's Sentinel",
+      "manaCost": "{1}{R}",
+      "cmc": 2.0,
+      "colorIdentity": ["R"],
+      "type": "Creature — Eldrazi Drone",
+      "types": ["Creature"],
+      "subtypes": ["Eldrazi", "Drone"],
+      "rarity": "Common",
+      "set": "BFZ",
+      "setName": "Battle for Zendikar",
+      "text": "Devoid (This card has no color.)\nWhenever you cast a colorless spell, Kozilek's Sentinel gets +1/+0 until end of turn.",
+      "flavor": "It moves through the tunnels as slowly and surely as the shifting stones.",
+      "artist": "Raymond Swanland",
+      "number": "129",
+      "power": "1",
+      "toughness": "4",
+      "layout": "normal",
+      "multiverseid": "401937",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401937&type=card",
+      "rulings": [
+        {
+          "date": "2015-08-25",
+          "text": "Cards with devoid use frames that are variations of the transparent frame traditionally used for Eldrazi. The top part of the card features some color over a background based on the texture of the hedrons that once imprisoned the Eldrazi. This coloration is intended to aid deckbuilding and game play."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "A card with devoid is just colorless. It’s not colorless and the colors of mana in its mana cost."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "Other cards and abilities can give a card with devoid color. If that happens, it’s just the new color, not that color and colorless."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "Devoid works in all zones, not just on the battlefield."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "If a card loses devoid, it will still be colorless. This is because effects that change an object’s color (like the one created by devoid) are considered before the object loses devoid."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Kozileks Wachposten",
+          "text": "Fahl (Diese Karte hat keine Farbe.)Immer wenn du einen farblosen Zauberspruch wirkst, erhält Kozileks Wachposten +1/+0 bis zum Ende des Zuges.",
+          "type": "Kreatur — Eldrazi, Drohne",
+          "flavor": "Er bewegt sich so langsam und sicher durch die Tunnel wie das Geröll selbst.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402834&type=card",
+          "language": "German",
+          "multiverseid": 402834
+        },
+        {
+          "name": "Centinela de Kozilek",
+          "text": "Vacío. (Esta carta no tiene ningún color.)Siempre que lances un hechizo incoloro, el Centinela de Kozilek obtiene +1/+0 hasta el final del turno.",
+          "type": "Criatura — Zángano eldrazi",
+          "flavor": "Se mueve por los túneles con la lentitud y seguridad de las rocas que se desplazan.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=404927&type=card",
+          "language": "Spanish",
+          "multiverseid": 404927
+        },
+        {
+          "name": "Sentinelle de Kozilek",
+          "text": "Carence (Cette carte n'a pas de couleur.)À chaque fois que vous lancez un sort incolore, la Sentinelle de Kozilek gagne +1/+0 jusqu'à la fin du tour.",
+          "type": "Créature : eldrazi et drone",
+          "flavor": "Elle se déplace dans les tunnels aussi lentement et sûrement que les pierres mouvantes.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=403133&type=card",
+          "language": "French",
+          "multiverseid": 403133
+        },
+        {
+          "name": "Sentinella di Kozilek",
+          "text": "Vacuità (Questa carta non ha colore.)Ogniqualvolta lanci una magia incolore, la Sentinella di Kozilek prende +1/+0 fino alla fine del turno.",
+          "type": "Creatura — Parassita Eldrazi",
+          "flavor": "Si muove nelle gallerie lenta e sicura come una faglia rocciosa.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=403432&type=card",
+          "language": "Italian",
+          "multiverseid": 403432
+        },
+        {
+          "name": "コジレックの歩哨",
+          "text": "欠色（このカードは無色である。）あなたが無色の呪文を１つ唱えるたび、ターン終了時まで、コジレックの歩哨は＋１/＋０の修整を受ける。",
+          "type": "クリーチャー — エルドラージ・ドローン",
+          "flavor": "変容石のようにゆっくりと、しかし確実にトンネルを進む。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=403731&type=card",
+          "language": "Japanese",
+          "multiverseid": 403731
+        },
+        {
+          "name": "코질렉의 보초",
+          "text": "결여 (이 카드는 무색이다.)당신이 무색 주문을 발동할 때마다, 코질렉의 보초는 턴종료까지 +1/+0을 받는다.",
+          "type": "생물 — 엘드라지 드론",
+          "flavor": "움직이는 바위처럼 천천히 그리고 확실하게 터널을 지나간다.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=404030&type=card",
+          "language": "Korean",
+          "multiverseid": 404030
+        },
+        {
+          "name": "Sentinela de Kozilek",
+          "text": "Desprovido (Este card não tem cor.)Toda vez que você conjura uma mágica incolor, Sentinela de Kozilek recebe +1/+0 até o final do turno.",
+          "type": "Criatura — Eldrazi Zangão",
+          "flavor": "Ela se move pelos túneis com a lentidão e a firmeza das pedras.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=404329&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 404329
+        },
+        {
+          "name": "Страж Козилека",
+          "text": "Лишение (У этой карты нет цвета.)Каждый раз, когда вы разыгрываете бесцветное заклинание, Страж Козилека получает +1/+0 до конца хода.",
+          "type": "Существо — Эльдрази Дрон",
+          "flavor": "Он движется по тоннелям медленно и неумолимо, словно каменный оползень.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=404628&type=card",
+          "language": "Russian",
+          "multiverseid": 404628
+        },
+        {
+          "name": "寇基雷哨兵",
+          "text": "虚色（此牌没有颜色。）每当你施放无色咒语时，寇基雷哨兵得+1/+0直到回合结束。",
+          "type": "生物～奥札奇／奴兽",
+          "flavor": "它在地道中稳步缓行，如同移动的石块。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402236&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 402236
+        },
+        {
+          "name": "寇基雷哨兵",
+          "text": "虛色（此牌沒有顏色。）每當你施放無色咒語時，寇基雷哨兵得+1/+0直到回合結束。",
+          "type": "生物～奧札奇／奴獸",
+          "flavor": "它在地道中穩步緩行，如同移動的石塊。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402535&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 402535
+        }
+      ],
+      "printings": ["BFZ"],
+      "originalText": "Devoid (This card has no color.)\nWhenever you cast a colorless spell, Kozilek's Sentinel gets +1/+0 until end of turn.",
+      "originalType": "Creature — Eldrazi Drone",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "bfc55522-1119-5b1f-9e27-485da5d54712"
+    },
+    {
+      "name": "Sedraxis Specter",
+      "manaCost": "{U}{B}{R}",
+      "cmc": 3.0,
+      "colors": ["B", "R", "U"],
+      "colorIdentity": ["B", "R", "U"],
+      "type": "Creature — Specter",
+      "types": ["Creature"],
+      "subtypes": ["Specter"],
+      "rarity": "Uncommon",
+      "set": "2X2",
+      "setName": "Double Masters 2022",
+      "text": "Flying\nWhenever Sedraxis Specter deals combat damage to a player, that player discards a card.\nUnearth {1}{B} ({1}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+      "artist": "Cole Eastburn",
+      "number": "273",
+      "power": "3",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": "571606",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=571606&type=card",
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "If you activate a card’s unearth ability but that card is removed from your graveyard before the ability resolves, that unearth ability will resolve and do nothing."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "Activating a creature card’s unearth ability isn’t the same as casting the creature card. The unearth ability is put on the stack, but the creature card is not. Spells and abilities that interact with activated abilities (such as Stifle) will interact with unearth, but spells and abilities that interact with spells (such as Remove Soul) will not."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "At the beginning of the end step, a creature returned to the battlefield with unearth is exiled. This is a delayed triggered ability, and it can be countered by effects such as Stifle or Voidslime that counter triggered abilities. If the ability is countered, the creature will stay on the battlefield and the delayed trigger won’t trigger again. However, the replacement effect will still exile the creature when it eventually leaves the battlefield."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "Unearth grants haste to the creature that’s returned to the battlefield. However, neither of the “exile” abilities is granted to that creature. If that creature loses all its abilities, it will still be exiled at the beginning of the end step, and if it would leave the battlefield, it is still exiled instead."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "If a creature returned to the battlefield with unearth would leave the battlefield for any reason, it’s exiled instead — unless the spell or ability that’s causing the creature to leave the battlefield is actually trying to exile it! In that case, it succeeds at exiling it. If it later returns the creature card to the battlefield (as Oblivion Ring or Flickerwisp might, for example), the creature card will return to the battlefield as a new object with no relation to its previous existence. The unearth effect will no longer apply to it."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Gespenst aus Sedraxis",
+          "text": "Fliegend\nImmer wenn das Gespenst aus Sedraxis einem Spieler Kampfschaden zufügt, wirft er eine Karte ab.\nExhumieren {1}{B} ({1}{B}: Bringe diese Karte aus deinem Friedhof ins Spiel zurück. Sie erhält Eile. Schicke sie zu Beginn des nächsten Endsegments, oder falls sie das Spiel verlassen würde, ins Exil. Spiele Exhumieren wie eine Hexerei.)",
+          "type": "Kreatur — Specter",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=571937&type=card",
+          "language": "German",
+          "multiverseid": 571937
+        },
+        {
+          "name": "Spectre de Sedraxis",
+          "text": "Vol\nÀ chaque fois que le Spectre de Sedraxis inflige des blessures de combat à un joueur, ce joueur se défausse d'une carte.\nExhumation {1}{B} ({1}{B} : Renvoyez cette carte sur le champ de bataille depuis votre cimetière. Elle acquiert la célérité. Exilez-la au début de la prochaine étape de fin ou si elle devait quitter le champ de bataille. N'exhumez que lorsque vous pourriez lancer un rituel.)",
+          "type": "Créature : spectre",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=572268&type=card",
+          "language": "French",
+          "multiverseid": 572268
+        },
+        {
+          "name": "セドラクシスの死霊",
+          "text": "飛行\nセドラクシスの死霊がプレイヤー１人に戦闘ダメージを与えるたび、そのプレイヤーはカード１枚を捨てる。\n蘇生{1}{B}（{1}{B}：あなたの墓地にあるこのカードを戦場に戻す。これは速攻を得る。次の終了ステップの開始時に、またはこれが戦場を離れるなら、これを追放する。蘇生はソーサリーとしてのみ行う。）",
+          "type": "クリーチャー — スペクター",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=572599&type=card",
+          "language": "Japanese",
+          "multiverseid": 572599
+        },
+        {
+          "name": "塞卓基司幽灵",
+          "text": "飞行\n每当塞卓基司幽灵对任一牌手造成战斗伤害时，该牌手弃一张牌。\n破坟{1}{B}（{1}{B}：将此牌从你的坟墓场移回战场。它获得敏捷异能。在下一个结束步骤开始时，或若它将离开战场，将它放逐。只能于法术时机破坟。）",
+          "type": "生物 ～幽灵",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=572930&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 572930
+        }
+      ],
+      "printings": ["2X2", "ALA", "MB1", "MM3"],
+      "originalText": "Flying\nWhenever Sedraxis Specter deals combat damage to a player, that player discards a card.\nUnearth {1}{B} ({1}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+      "originalType": "Creature — Specter",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Restricted"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "217679f7-38ee-59f9-85d8-5b13e662eef3"
+    },
+    {
+      "name": "Storm Fleet Pyromancer",
+      "manaCost": "{4}{R}",
+      "cmc": 5.0,
+      "colors": ["R"],
+      "colorIdentity": ["R"],
+      "type": "Creature — Human Pirate Wizard",
+      "types": ["Creature"],
+      "subtypes": ["Human", "Pirate", "Wizard"],
+      "rarity": "Common",
+      "set": "2X2",
+      "setName": "Double Masters 2022",
+      "text": "Raid — When Storm Fleet Pyromancer enters the battlefield, if you attacked this turn, Storm Fleet Pyromancer deals 2 damage to any target.",
+      "flavor": "\"She's quick and fearless, and she's never missed a shot. That almost makes up for all the scorch marks she leaves behind.\"\n—Captain Lannery Storm",
+      "artist": "Kieran Yanner",
+      "number": "126",
+      "power": "3",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": "571459",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=571459&type=card",
+      "rulings": [
+        {
+          "date": "2018-01-19",
+          "text": "Raid abilities care only that you attacked with a creature. It doesn’t matter how many creatures you attacked with, or which opponent or planeswalker controlled by an opponent those creatures attacked."
+        },
+        {
+          "date": "2018-01-19",
+          "text": "Raid abilities evaluate the entire turn to see if you attacked with a creature. That creature doesn’t have to still be on the battlefield. Similarly, the player or planeswalker it attacked doesn’t have to still be in the game or on the battlefield, respectively."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Sturmflotten-Pyromagierin",
+          "text": "Überfall — Wenn die Sturmflotten-Pyromagierin ins Spiel kommt und falls du in diesem Zug angegriffen hast, fügt die Sturmflotten-Pyromagierin einem Ziel deiner Wahl 2 Schadenspunkte zu.",
+          "type": "Kreatur — Mensch, Pirat, Zauberer",
+          "flavor": "„Sie ist flink und furchtlos, und sie hat noch nie ein Ziel verfehlt. Das lässt fast all die Brandflecken vergessen, die sie hinterlässt.\"\n—Kapitänin Lannery Storm",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=571790&type=card",
+          "language": "German",
+          "multiverseid": 571790
+        },
+        {
+          "name": "Pyromancienne de la Flotte de la tempête",
+          "text": "Saccage — Quand la Pyromancienne de la Flotte de la tempête arrive sur le champ de bataille, si vous avez attaqué ce tour-ci, la Pyromancienne de la Flotte de la tempête inflige 2 blessures à n'importe quelle cible.",
+          "type": "Créature : humain et pirate et sorcier",
+          "flavor": "« Elle est rapide et intrépide, et elle ne rate jamais sa cible. Cela compenserait presque toutes les traces de brûlé qu'elle laisse derrière elle. »\n—Capitaine Lanneray Tempeste",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=572121&type=card",
+          "language": "French",
+          "multiverseid": 572121
+        },
+        {
+          "name": "風雲艦隊の紅蓮術士",
+          "text": "強襲 ― 風雲艦隊の紅蓮術士が戦場に出たとき、このターンにあなたが攻撃していた場合、クリーチャーやプレインズウォーカーやプレイヤーのうち１つを対象とする。風雲艦隊の紅蓮術士はそれに２点のダメージを与える。",
+          "type": "クリーチャー — 人間・海賊・ウィザード",
+          "flavor": "「彼女は素早く恐れ知らずで、狙いを外すことは決してない。残る焦げ跡を埋め合わせるには、だいたい充分だろう。」\n――風雲船長ラネリー",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=572452&type=card",
+          "language": "Japanese",
+          "multiverseid": 572452
+        },
+        {
+          "name": "速腾舰队烈焰术士",
+          "text": "突击～当速腾舰队烈焰术士进战场时，若你本回合中攻击过，则速腾舰队烈焰术士对任意一个目标造成2点伤害。",
+          "type": "生物 ～人类／海盗／法术师",
+          "flavor": "「她身手迅捷，胆识惊人，也从未失手。差点就能完全弥补她会到处留下焦印这缺点。」\n～兰娜莉速腾船长",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=572783&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 572783
+        }
+      ],
+      "printings": ["2X2", "J22", "XLN"],
+      "originalText": "Raid — When Storm Fleet Pyromancer enters the battlefield, if you attacked this turn, Storm Fleet Pyromancer deals 2 damage to any target.",
+      "originalType": "Creature — Human Pirate Wizard",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Explorer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Gladiator",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historicbrawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "04247e47-a8e3-5b62-9db1-ac8e7a6422dd"
+    },
+    {
+      "name": "Belbe, Corrupted Observer",
+      "manaCost": "{B}{G}",
+      "cmc": 2.0,
+      "colors": ["B", "G"],
+      "colorIdentity": ["B", "G"],
+      "type": "Legendary Creature — Phyrexian Zombie Elf",
+      "supertypes": ["Legendary"],
+      "types": ["Creature"],
+      "subtypes": ["Phyrexian", "Zombie", "Elf"],
+      "rarity": "Rare",
+      "set": "CMR",
+      "setName": "Commander Legends",
+      "text": "At the beginning of each player's postcombat main phase, that player adds {C}{C} for each of your opponents who lost life this turn. (Damage causes loss of life.)",
+      "flavor": "\"Those who wish to become evincar must first cast off the shackles of compassion.\"",
+      "artist": "Igor Kieryluk",
+      "number": "270",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": "497790",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=497790&type=card",
+      "variations": ["7f2f9067-df5f-5353-a9af-d83493c371cd"],
+      "rulings": [
+        {
+          "date": "2020-11-10",
+          "text": "If an opponent lost life and subsequently lost the game, Belbe’s triggered ability still counts that player to determine how much mana to add."
+        },
+        {
+          "date": "2020-11-10",
+          "text": "If an effect creates an additional combat phase in a turn, it may also create an additional main phase after that combat phase. Belbe’s ability triggers at the beginning of each of these postcombat main phases."
+        },
+        {
+          "date": "2020-11-10",
+          "text": "If an opponent loses life before their own postcombat main phase, Belbe will reward their suffering with mana."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Belbe, verdorbene Beobachterin",
+          "text": "Zu Beginn der Hauptphase nach dem Kampf jedes Spielers erzeugt der Spieler {C}{C} für jeden deiner Gegner, der in diesem Zug Lebenspunkte verloren hat. (Schaden verursacht den Verlust von Lebenspunkten.)",
+          "type": "Legendäre Kreatur — Zombie, Elf",
+          "flavor": "„Diejenigen, die Evincar werden wollen, müssen zuerst die Fesseln des Mitgefühls ablegen.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=498151&type=card",
+          "language": "German",
+          "multiverseid": 498151
+        },
+        {
+          "name": "Belbe, observadora corrupta",
+          "text": "Al comienzo de la fase principal poscombate de cada jugador, ese jugador agrega {C}{C} por cada uno de tus oponentes que perdió una o más vidas este turno. (El daño causa pérdida de vidas.)",
+          "type": "Criatura legendaria — Elfo zombie",
+          "flavor": "\"Aquellos que desean convertirse en évincar primero deben desprenderse de los grilletes de la compasión\".",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=498512&type=card",
+          "language": "Spanish",
+          "multiverseid": 498512
+        },
+        {
+          "name": "Belbé, observatrice corrompue",
+          "text": "Au début de la deuxième phase principale de chaque joueur, ce joueur ajoute {C}{C} pour chacun de vos adversaires qui a perdu des points de vie ce tour-ci. (Les blessures provoquent la perte de points de vie.)",
+          "type": "Créature légendaire : zombie et elfe",
+          "flavor": "« Quiconque souhaite devenir incarmal doit d'abord s'affranchir du joug de la compassion. »",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=498873&type=card",
+          "language": "French",
+          "multiverseid": 498873
+        },
+        {
+          "name": "Belbe, Osservatrice Corrotta",
+          "text": "All'inizio della fase principale post-combattimento di ogni giocatore, quel giocatore aggiunge {C}{C} per ognuno dei tuoi avversari che hanno perso punti vita in questo turno. (Il danno provoca la perdita di punti vita.)",
+          "type": "Creatura Leggendaria — Elfo Zombie",
+          "flavor": "\"Chi aspira a diventare evincaro deve prima liberarsi dalle catene della compassione.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=499234&type=card",
+          "language": "Italian",
+          "multiverseid": 499234
+        },
+        {
+          "name": "邪悪な選督使、ベルベイ",
+          "text": "各プレイヤーの戦闘後メイン・フェイズの開始時に、そのプレイヤーはこのターンにライフを失ったあなたの対戦相手１人につき{C}{C}を加える。（ダメージによりライフは失われる。）",
+          "type": "伝説のクリーチャー — ゾンビ・エルフ",
+          "flavor": "「エヴィンカーになりたいなら、まず同情心という重荷を捨て去ることね。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=499595&type=card",
+          "language": "Japanese",
+          "multiverseid": 499595
+        },
+        {
+          "name": "Belbe, Observadora Corrompida",
+          "text": "No início da fase principal pós-combate de cada jogador, aquele jogador adiciona {C}{C} para cada um de seus oponentes que perdeu pontos de vida neste turno. (O dano causa perda de pontos de vida.)",
+          "type": "Criatura Lendária — Zumbi Elfo",
+          "flavor": "\"Os que querem se tornar evincares precisam, primeiro, se livrar dos grilhões da compaixão.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=499956&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 499956
+        },
+        {
+          "name": "腐化观察员贝尔蓓",
+          "text": "在每位牌手战斗后的行动阶段开始时，你每有一位本回合中失去过生命的对手，该牌手便加{C}{C}。（伤害会导致失去生命。）",
+          "type": "传奇生物 ～灵俑／妖精",
+          "flavor": "「想要成为大魔将的人，首先必须摆脱同情的桎梏。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=500317&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 500317
+        },
+        {
+          "name": "腐化觀察員貝爾蓓",
+          "text": "在每位玩家戰鬥後的行動階段開始時，你每有一位本回合中失去過生命的對手，該玩家便加{C}{C}。（傷害會導致失去生命。）",
+          "type": "傳奇生物 ～殭屍／妖精",
+          "flavor": "「想要成為大魔將的人，首先必須擺脫同情的桎梏。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=500678&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 500678
+        }
+      ],
+      "printings": ["CMR", "PRM"],
+      "originalText": "At the beginning of each player's postcombat main phase, that player adds {C}{C} for each of your opponents who lost life this turn. (Damage causes loss of life.)",
+      "originalType": "Legendary Creature — Zombie Elf",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "ed1fe3f2-0fa2-5ab3-b691-272f4fcb2389"
+    },
+    {
+      "name": "Wind Drake",
+      "manaCost": "{2}{U}",
+      "cmc": 3.0,
+      "colors": ["U"],
+      "colorIdentity": ["U"],
+      "type": "Creature — Drake",
+      "types": ["Creature"],
+      "subtypes": ["Drake"],
+      "rarity": "Common",
+      "set": "TMP",
+      "setName": "Tempest",
+      "text": "Flying",
+      "flavor": "Orim regarded Gerrard coolly. \"You are like the drake,\" she said, her expression unchanging. \"It works hard to maintain its position, but to us it seems to glide along effortlessly. You *must* do the same.\"",
+      "artist": "Greg Simanson",
+      "number": "105",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": "4745",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4745&type=card",
+      "foreignNames": [
+        {
+          "name": "Windsceada",
+          "text": "Fliegend",
+          "type": "Beschwörung eines Sceadas",
+          "flavor": null,
+          "language": "German",
+          "multiverseid": null
+        },
+        {
+          "name": "Draco del viento",
+          "flavor": null,
+          "language": "Spanish",
+          "multiverseid": null
+        },
+        {
+          "name": "Drakôn des vents",
+          "flavor": null,
+          "language": "French",
+          "multiverseid": null
+        },
+        {
+          "name": "Draghetto del Vento",
+          "flavor": null,
+          "language": "Italian",
+          "multiverseid": null
+        },
+        {
+          "name": "風のドレイク",
+          "flavor": null,
+          "language": "Japanese",
+          "multiverseid": null
+        },
+        {
+          "name": "Dragonete do Vento",
+          "flavor": null,
+          "language": "Portuguese (Brazil)",
+          "multiverseid": null
+        }
+      ],
+      "printings": [
+        "6ED",
+        "7ED",
+        "8ED",
+        "9ED",
+        "BRB",
+        "DGM",
+        "KLD",
+        "M10",
+        "M13",
+        "MB1",
+        "POR",
+        "S99",
+        "TMP",
+        "TPR"
+      ],
+      "originalText": "Flying",
+      "originalType": "Summon - Drake",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "f118c486-ba96-56b6-872c-0244b6bfcfb9"
+    },
+    {
+      "name": "Bloom Tender",
+      "manaCost": "{1}{G}",
+      "cmc": 2.0,
+      "colors": ["G"],
+      "colorIdentity": ["G"],
+      "type": "Creature — Elf Druid",
+      "types": ["Creature"],
+      "subtypes": ["Elf", "Druid"],
+      "rarity": "Rare",
+      "set": "EVE",
+      "setName": "Eventide",
+      "text": "{T}: For each color among permanents you control, add one mana of that color.",
+      "flavor": "Beauty is a seed, waiting to blossom under her capable hands.",
+      "artist": "Chippy",
+      "number": "66",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": "158901",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=158901&type=card",
+      "rulings": [
+        {
+          "date": "2008-08-01",
+          "text": "For each color (white, blue, black, red, and green), check to see if you control a permanent of that color. You can count the same permanent for multiple colors. For example, if you control a green enchantment and a white-black creature, Bloom Tender’s ability produces {W}{B}{G}."
+        },
+        {
+          "date": "2008-08-01",
+          "text": "Bloom Tender won’t add more than one mana of any particular color to your mana pool. At most, it will produce {W}{U}{B}{R}{G}."
+        },
+        {
+          "date": "2008-08-01",
+          "text": "Bloom Tender can’t add colorless mana to your mana pool, even if you control a colorless permanent."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Blütenpflegerin",
+          "text": "{T}: Erhöhe deinen Manavorrat für jede Farbe unter den bleibenden Karten, die du kontrollierst, um ein Mana der entsprechenden Farbe.",
+          "type": "Kreatur — Elf, Druide",
+          "flavor": "Die Schönheit ist wie ein Samen, der darauf wartet, unter ihren geschickten Händen aufzublühen.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=181594&type=card",
+          "language": "German",
+          "multiverseid": 181594
+        },
+        {
+          "name": "Cuidadora de las flores",
+          "text": "{T}: Por cada color entre los permanentes que controlas agrega un maná de ese color a tu reserva de maná.",
+          "type": "Criatura — Druida elfo",
+          "flavor": "La belleza es una semilla, esperando germinar bajo sus hábiles manos.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180694&type=card",
+          "language": "Spanish",
+          "multiverseid": 180694
+        },
+        {
+          "name": "Marraine des floraisons",
+          "text": "{T} : Pour chaque couleur parmi les permanents que vous contrôlez, ajoutez un mana de cette couleur à votre réserve.",
+          "type": "Créature : elfe et druide",
+          "flavor": "La beauté est une graine qui attend de s'épanouir grâce à ses mains adeptes.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=181774&type=card",
+          "language": "French",
+          "multiverseid": 181774
+        },
+        {
+          "name": "Custode dei Fiori",
+          "text": "{T}: Per ogni colore tra i permanenti che controlli, aggiungi un mana di quel colore alla tua riserva di mana.",
+          "type": "Creatura — Druido Elfo",
+          "flavor": "La bellezza è un seme, che attende di sbocciare tra le sue mani esperte.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=181414&type=card",
+          "language": "Italian",
+          "multiverseid": 181414
+        },
+        {
+          "name": "花を手入れする者",
+          "text": "{T}：あなたがコントロールするパーマネントの色１つにつき、あなたのマナ・プールにその色のマナ１点を加える。",
+          "type": "クリーチャー — エルフ・ドルイド",
+          "flavor": "美とは、技ある彼女の手の中で咲くのを待っている種だ。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=181054&type=card",
+          "language": "Japanese",
+          "multiverseid": 181054
+        },
+        {
+          "name": "Guardiã da Florescência",
+          "text": "{T}: Para cada cor entre as permanentes que você controla, adicione um mana daquela cor à sua reserva de mana.",
+          "type": "Criatura — Elfo Druida",
+          "flavor": "A beleza é uma semente que aguarda suas hábeis mãos para florescer.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=181954&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 181954
+        },
+        {
+          "name": "Заботливая Садовница",
+          "text": "{T}: за каждый цвет среди перманентов под вашим контролем добавьте одну ману того цвета в ваше хранилище маны.",
+          "type": "Существо — Эльф Друид",
+          "flavor": "Красота это семена, которые станут цветами в ее умелых руках.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=181234&type=card",
+          "language": "Russian",
+          "multiverseid": 181234
+        },
+        {
+          "name": "莳花师",
+          "text": "{T}：由你操控的永久物每包括一种颜色，就加一点该色的法术力到你的法术力池中。",
+          "type": "生物～地精／德鲁伊",
+          "flavor": "美丽有如种子，等着在她巧手照料下开花。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180874&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 180874
+        }
+      ],
+      "printings": ["2X2", "EVE", "MB1", "PRM", "SLD"],
+      "originalText": "{T}: For each color among permanents you control, add one mana of that color to your mana pool.",
+      "originalType": "Creature - Elf Druid",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "3d13cead-3261-57f9-b3f8-bed61147e5e1"
+    },
+    {
+      "name": "Shrewd Hatchling",
+      "manaCost": "{3}{U/R}",
+      "cmc": 4.0,
+      "colors": ["R", "U"],
+      "colorIdentity": ["R", "U"],
+      "type": "Creature — Elemental",
+      "types": ["Creature"],
+      "subtypes": ["Elemental"],
+      "rarity": "Uncommon",
+      "set": "EVE",
+      "setName": "Eventide",
+      "text": "Shrewd Hatchling enters the battlefield with four -1/-1 counters on it.\n{U/R}: Target creature can't block Shrewd Hatchling this turn.\nWhenever you cast a blue spell, remove a -1/-1 counter from Shrewd Hatchling.\nWhenever you cast a red spell, remove a -1/-1 counter from Shrewd Hatchling.",
+      "artist": "Carl Frank",
+      "number": "112",
+      "power": "6",
+      "toughness": "6",
+      "layout": "normal",
+      "multiverseid": "153486",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=153486&type=card",
+      "rulings": [
+        {
+          "date": "2008-08-01",
+          "text": "If you cast a spell that’s both of the listed colors, both abilities will trigger. You’ll remove a total of two -1/-1 counters from the Hatchling."
+        },
+        {
+          "date": "2008-08-01",
+          "text": "If there are no -1/-1 counters on it when the triggered ability resolves, the ability does nothing. There is no penalty for not being able to remove a counter."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Hinterlistiges Jungtier",
+          "text": "Das Hinterlistige Jungtier kommt mit vier -1/-1-Marken ins Spiel.\n{U/R}: Eine Kreatur deiner Wahl kann das Hinterlistige Jungtier in diesem Zug nicht blocken.\nImmer wenn du einen blauen Zauberspruch spielst, entferne eine -1/-1-Marke vom Hinterlistigen Jungtier.\nImmer wenn du einen roten Zauberspruch spielst, entferne eine -1/-1-Marke vom Hinterlistigen Jungtier.",
+          "type": "Kreatur — Elementarwesen",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=181640&type=card",
+          "language": "German",
+          "multiverseid": 181640
+        },
+        {
+          "name": "Cría sagaz",
+          "text": "La Cría sagaz entra en juego con cuatro contadores -1/-1 sobre ella.\n{U/R}: La criatura objetivo no puede bloquear a la Cría sagaz este turno.\nSiempre que juegues un hechizo azul, remueve un contador -1/-1 de la Cría sagaz.\nSiempre que juegues un hechizo rojo, remueve un contador -1/-1 de la Cría sagaz.",
+          "type": "Criatura — Elemental",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180740&type=card",
+          "language": "Spanish",
+          "multiverseid": 180740
+        },
+        {
+          "name": "Progéniture habile",
+          "text": "La Progéniture habile arrive en jeu avec quatre marqueurs -1/-1 sur elle.\n{U/R} : La créature ciblée ne peut pas bloquer la Progéniture habile ce tour-ci.\nÀ chaque fois que vous jouez un sort bleu, retirez un marqueur -1/-1 de la Progéniture habile.\nÀ chaque fois que vous jouez un sort rouge, retirez un marqueur -1/-1 de la Progéniture habile.",
+          "type": "Créature : élémental",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=181820&type=card",
+          "language": "French",
+          "multiverseid": 181820
+        },
+        {
+          "name": "Cucciolo Pungente",
+          "text": "Il Cucciolo Pungente entra in gioco con quattro segnalini -1/-1.\n{U/R}: Una creatura bersaglio non può bloccare il Cucciolo Pungente in questo turno.\nOgniqualvolta giochi una magia blu, rimuovi un segnalino -1/-1 dal Cucciolo Pungente.\nOgniqualvolta giochi una magia rossa, rimuovi un segnalino -1/-1 dal Cucciolo Pungente.",
+          "type": "Creatura — Elementale",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=181460&type=card",
+          "language": "Italian",
+          "multiverseid": 181460
+        },
+        {
+          "name": "明敏な雛",
+          "text": "明敏な雛は－１/－１カウンターが４個置かれた状態で場に出る。\n{U/R}：クリーチャー１体を対象とする。このターン、それでは明敏な雛をブロックできない。\nあなたが青の呪文をプレイするたび、明敏な雛から－１/－１カウンターを１個取り除く。\nあなたが赤の呪文をプレイするたび、明敏な雛から－１/－１カウンターを１個取り除く。",
+          "type": "クリーチャー — エレメンタル",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=181100&type=card",
+          "language": "Japanese",
+          "multiverseid": 181100
+        },
+        {
+          "name": "Cria Ardilosa",
+          "text": "Cria Ardilosa entra em jogo com quatro marcadores -1/-1.\n{U/R}: A criatura alvo não pode bloquear Cria Ardilosa neste turno.\nToda vez que você jogar uma mágica azul, remova um marcador -1/-1 de Cria Ardilosa.\nToda vez que você jogar uma mágica vermelha, remova um marcador -1/-1 de Cria Ardilosa.",
+          "type": "Criatura — Elemental",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=182000&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 182000
+        },
+        {
+          "name": "Хитрый Детеныш",
+          "text": "Хитрый Детеныш входит в игру с четырьмя жетонами -1/-1 на нем.\n{U/R}: целевое существо не может блокировать Хитрого Детеныша в этом ходу.\nКаждый раз, когда вы разыгрываете синее заклинание, удалите один жетон -1/-1 с Хитрого Детеныша.\nКаждый раз, когда вы разыгрываете красное заклинание, удалите один жетон -1/-1 с Хитрого Детеныша.",
+          "type": "Существо — Элементаль",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=181280&type=card",
+          "language": "Russian",
+          "multiverseid": 181280
+        },
+        {
+          "name": "机伶幼雏",
+          "text": "机伶幼雏进场时上面有四个-1/-1指示物。\n{U/R}：目标生物本回合中不能阻挡机伶幼雏。\n每当你使用一个蓝色咒语时，从机伶幼雏上移去一个-1/-1指示物。\n每当你使用一个红色咒语时，从机伶幼雏上移去一个-1/-1指示物。",
+          "type": "生物～元素",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180920&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 180920
+        }
+      ],
+      "printings": ["DDJ", "EVE", "MB1", "MM2"],
+      "originalText": "Shrewd Hatchling comes into play with four -1/-1 counters on it.\n{UR}: Target creature can't block Shrewd Hatchling this turn.\nWhenever you play a blue spell, remove a -1/-1 counter from Shrewd Hatchling.\nWhenever you play a red spell, remove a -1/-1 counter from Shrewd Hatchling.",
+      "originalType": "Creature - Elemental",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Restricted"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "731b23bd-14c4-5644-bcb5-46edd5243f13"
+    },
+    {
+      "name": "Island Fish Jasconius",
+      "manaCost": "{4}{U}{U}{U}",
+      "cmc": 7.0,
+      "colors": ["U"],
+      "colorIdentity": ["U"],
+      "type": "Creature — Fish",
+      "types": ["Creature"],
+      "subtypes": ["Fish"],
+      "rarity": "Rare",
+      "set": "4ED",
+      "setName": "Fourth Edition",
+      "text": "Island Fish Jasconius doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {U}{U}{U}. If you do, untap Island Fish Jasconius.\nIsland Fish Jasconius can't attack unless defending player controls an Island.\nWhen you control no Islands, sacrifice Island Fish Jasconius.",
+      "artist": "Jesper Myrfors",
+      "number": "78",
+      "power": "6",
+      "toughness": "8",
+      "layout": "normal",
+      "multiverseid": "2161",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2161&type=card",
+      "rulings": [
+        {
+          "date": "2006-05-01",
+          "text": "Reworded so that it triggers only once at beginning of upkeep, instead of being an activated ability usable any time during your upkeep. You can no longer make infinite combos with this ability."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Inselfisch Jasconius",
+          "text": "Der Inselfisch enttappt nicht während Deiner Enttap-Phase.\nDer Inselfisch kann nur angreifen, wenn der Gegner Inseln im Spiel hat. Wenn Du zu irgendeiner Zeit keine Inseln mehr im Spiel hast, geht Jasconius direkt auf den Friedhof.\n{U}{U}{U}: Enttappe Inselfisch. Du kannst diese Eigenschaft nur während Deiner Versorgungsphase benutzen.",
+          "type": "Beschwörung des Inselfischs",
+          "flavor": null,
+          "language": "German",
+          "multiverseid": null
+        },
+        {
+          "name": "Pez isla Jasconius",
+          "flavor": null,
+          "language": "Spanish",
+          "multiverseid": null
+        },
+        {
+          "name": "Ile-poisson Seyidna yûnûs",
+          "flavor": null,
+          "language": "French",
+          "multiverseid": null
+        },
+        {
+          "name": "Jasconius, il Pesce-Isola",
+          "flavor": null,
+          "language": "Italian",
+          "multiverseid": null
+        },
+        {
+          "name": "島魚ジャスコニアス",
+          "flavor": null,
+          "language": "Japanese",
+          "multiverseid": null
+        },
+        {
+          "name": "Peixe-Ilha Jasconius",
+          "flavor": null,
+          "language": "Portuguese (Brazil)",
+          "multiverseid": null
+        }
+      ],
+      "printings": ["3ED", "4BB", "4ED", "ARN", "FBB", "SUM"],
+      "originalText": "Does not untap during your untap phase.\nCannot attack if defending player controls no islands. If at any time you control no islands, bury Island Fish Jasconius.\no\nUo\nUoo\nU Untap Island Fish. Use this ability only during your upkeep.",
+      "originalType": "Summon - Island Fish",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Oldschool",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "05f3511e-c68f-5425-b867-1649f29597a2"
+    },
+    {
+      "name": "Benalish Lancer",
+      "manaCost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": ["W"],
+      "colorIdentity": ["W"],
+      "type": "Creature — Human Knight",
+      "types": ["Creature"],
+      "subtypes": ["Human", "Knight"],
+      "rarity": "Common",
+      "set": "DDG",
+      "setName": "Duel Decks: Knights vs. Dragons",
+      "text": "Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)\nIf Benalish Lancer was kicked, it enters the battlefield with two +1/+1 counters on it and with first strike.",
+      "artist": "Paolo Parente",
+      "number": "12",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": "243429",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243429&type=card",
+      "foreignNames": [
+        {
+          "name": "Benalischer Lanzenträger",
+          "text": "Bonus {2}{W} (Du kannst zusätzlich {2}{W} bezahlen, sowie du diesen Zauberspruch wirkst.)\nFalls du die Bonuskosten bezahlt hast, kommt der Benalische Lanzenträger mit zwei +1/+1-Marken ins Spiel und hat Erstschlag.",
+          "type": "Kreatur — Mensch, Ritter",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243756&type=card",
+          "language": "German",
+          "multiverseid": 243756
+        },
+        {
+          "name": "Lancero benalita",
+          "text": "Estímulo {2}{W}. (Puedes pagar {2}{W} adicionales en cuanto lances este hechizo.)\nSi el Lancero benalita fue estimulado, entra al campo de batalla con dos contadores +1/+1 sobre él y con la habilidad de dañar primero.",
+          "type": "Criatura — Caballero humano",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244084&type=card",
+          "language": "Spanish",
+          "multiverseid": 244084
+        },
+        {
+          "name": "Lancier bénalian",
+          "text": "Kick {2}{W} (Vous pouvez payer {2}{W} supplémentaires au moment où vous lancez ce sort.)\nSi le Lancier bénalian a été kické, il arrive sur le champ de bataille avec, sur lui, deux marqueurs +1/+1, et avec l'initiative.",
+          "type": "Créature : humain et chevalier",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243838&type=card",
+          "language": "French",
+          "multiverseid": 243838
+        },
+        {
+          "name": "Lanciere di Benalia",
+          "text": "Potenziamento {2}{W} (Puoi pagare {2}{W} addizionale quando lanci questa magia.)\nSe il Lanciere di Benalia è stato potenziato, entra nel campo di battaglia con due segnalini +1/+1 e con attacco improvviso.",
+          "type": "Creatura — Cavaliere Umano",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243920&type=card",
+          "language": "Italian",
+          "multiverseid": 243920
+        }
+      ],
+      "printings": ["DDG", "INV"],
+      "originalText": "Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)\nIf Benalish Lancer was kicked, it enters the battlefield with two +1/+1 counters on it and with first strike.",
+      "originalType": "Creature — Human Knight",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "d1e1b1fd-944d-5f64-9ec9-9802392e4b1d"
+    },
+    {
+      "name": "Spike Breeder",
+      "manaCost": "{3}{G}",
+      "cmc": 4.0,
+      "colors": ["G"],
+      "colorIdentity": ["G"],
+      "type": "Creature — Spike",
+      "types": ["Creature"],
+      "subtypes": ["Spike"],
+      "rarity": "Rare",
+      "set": "STH",
+      "setName": "Stronghold",
+      "text": "Spike Breeder enters the battlefield with three +1/+1 counters on it.\n{2}, Remove a +1/+1 counter from Spike Breeder: Put a +1/+1 counter on target creature.\n{2}, Remove a +1/+1 counter from Spike Breeder: Create a 1/1 green Spike creature token.",
+      "artist": "Adam Rex",
+      "number": "116",
+      "power": "0",
+      "toughness": "0",
+      "layout": "normal",
+      "multiverseid": "5237",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=5237&type=card",
+      "foreignNames": [
+        {
+          "name": "Stachelbrüter",
+          "text": "Der Stachelbrüter kommt mit drei +1/+1 Marken auf ihm ins Spiel.\n2, entferne eine +1/+1 Marke von dem Stachelbrüter: Lege eine +1/+1 Marke auf eine Kreatur Deiner Wahl.\n2, entferne eine +1/+1 Marke von dem Stachelbrüter: Bringe einen Stachel-Spielstein ins Spiel. Behandle diesen Spielstein wie eine 1/1 grüne Kreatur.",
+          "type": "Beschwörung eines Stachels",
+          "flavor": null,
+          "language": "German",
+          "multiverseid": null
+        },
+        {
+          "name": "Perforador reproductor",
+          "flavor": null,
+          "language": "Spanish",
+          "multiverseid": null
+        },
+        {
+          "name": "Epix reproducteur",
+          "flavor": null,
+          "language": "French",
+          "multiverseid": null
+        },
+        {
+          "name": "Pungiglione Prolificatore",
+          "flavor": null,
+          "language": "Italian",
+          "multiverseid": null
+        },
+        {
+          "name": "スパイクのブリーダー",
+          "flavor": null,
+          "language": "Japanese",
+          "multiverseid": null
+        },
+        {
+          "name": "Procriador de Espículos",
+          "flavor": null,
+          "language": "Portuguese (Brazil)",
+          "multiverseid": null
+        }
+      ],
+      "printings": ["STH", "TPR"],
+      "originalText": "Spike Breeder comes into play with three +1/+1 counters on it.\no2, Remove a +1/+1 counter from Spike Breeder: Put a +1/+1 counter on target creature.\no2, Remove a +1/+1 counter from Spike Breeder: Put a Spike token into play. Treat this token as a 1/1 green creature.",
+      "originalType": "Summon - Spike",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Restricted"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "2ff18fd6-55b2-522a-92e0-d9bba571f0ef"
+    },
+    {
+      "name": "Zendikar Incarnate",
+      "manaCost": "{2}{R}{G}",
+      "cmc": 4.0,
+      "colors": ["G", "R"],
+      "colorIdentity": ["G", "R"],
+      "type": "Creature — Elemental",
+      "types": ["Creature"],
+      "subtypes": ["Elemental"],
+      "rarity": "Uncommon",
+      "set": "PLIST",
+      "setName": "The List",
+      "text": "Zendikar Incarnate's power is equal to the number of lands you control.",
+      "flavor": "\"Her people angered Zendikar, and they faced the land's wrath. That is why Nissa is the last of the animists.\"\n—Numa, Joraga chieftain",
+      "artist": "Lucas Graciano",
+      "number": "233",
+      "power": "*",
+      "toughness": "4",
+      "layout": "normal",
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "The ability defining Zendikar Incarnate’s power works in all zones, not just the battlefield. Zendikar Incarnate’s power changes as the number of lands you control does."
+        }
+      ],
+      "printings": ["C18", "ORI", "PLIST"],
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Restricted"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "c5cebaab-8aaa-5281-a4ee-aa74e3e63864"
+    },
+    {
+      "name": "Suq'Ata Lancer",
+      "manaCost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": ["R"],
+      "colorIdentity": ["R"],
+      "type": "Creature — Human Knight",
+      "types": ["Creature"],
+      "subtypes": ["Human", "Knight"],
+      "rarity": "Special",
+      "set": "TSB",
+      "setName": "Time Spiral Timeshifted",
+      "text": "Haste\nFlanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)",
+      "flavor": "\"Never stop 'til you see your lance come out the other side.\"\n—Telim'Tor",
+      "artist": "Jeff Miracola",
+      "number": "69",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": "108883",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=108883&type=card",
+      "foreignNames": [
+        {
+          "name": "Lanzenträger der Suq'Ata",
+          "text": "Eile\nFlankenangriff (Immer wenn eine Kreatur ohne Flankenangriff diese Kreatur blockt, erhält die blockende Kreatur -1/-1 bis zum Ende des Zuges.)",
+          "type": "Kreatur — Mensch, Ritter",
+          "flavor": "„Bleib nicht stehen, bevor du nicht deine Lanze auf der anderen Seite wieder herauskommen siehst\" —Telim'Tor",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=131350&type=card",
+          "language": "German",
+          "multiverseid": 131350
+        },
+        {
+          "name": "Lancero de Suq'Ata",
+          "text": "Prisa.\nFlanquea. (Siempre que una criatura sin la habilidad de flanquear bloquee a esta criatura, la criatura bloqueadora obtiene -1/-1 hasta el final del turno.)",
+          "type": "Criatura — Caballero humano",
+          "flavor": "\"No te detengas hata que veas salir la lanza del otro lado.\" —Telim'Tor",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=131955&type=card",
+          "language": "Spanish",
+          "multiverseid": 131955
+        },
+        {
+          "name": "Lancier souk'ata",
+          "text": "Célérité\nDébordement (À chaque fois qu'une créature sans le débordement bloque cette créature, la créature bloqueuse gagne -1/-1 jusqu'à la fin du tour.)",
+          "type": "Créature : humain et chevalier",
+          "flavor": "« Ne vous arrêtez jamais avant de voir la lance ressortir de l'autre côté » —Telim'Tor",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=131229&type=card",
+          "language": "French",
+          "multiverseid": 131229
+        },
+        {
+          "name": "Lanciere di Suq'Ata",
+          "text": "Rapidità\nAggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno.)",
+          "type": "Creatura — Cavaliere Umano",
+          "flavor": "\"E non frenare il tuo impeto, fin quando spuntar vedrai la lancia dall'altra parte del suo corpo.\" —Telim'Tor",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=131471&type=card",
+          "language": "Italian",
+          "multiverseid": 131471
+        },
+        {
+          "name": "スークアタの槍騎兵",
+          "text": "速攻\n側面攻撃 （側面攻撃を持たないいずれかのクリーチャーがこのクリーチャーをブロックするたび、ブロックしているクリーチャーはターン終了時まで－１/－１の修整を受ける。）",
+          "type": "クリーチャー — 人間・騎士",
+          "flavor": "ランスが貫き通るのを確かめるまで、絶対に馬を止めるな。 ――テリムトー",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=131592&type=card",
+          "language": "Japanese",
+          "multiverseid": 131592
+        },
+        {
+          "name": "Lanceiro de Souk'Ata",
+          "text": "Ímpeto\nFlanquear (Toda vez que uma criatura sem flanquear bloquear esta criatura, a criatura bloqueadora receberá -1/-1 até o final do turno.)",
+          "type": "Criatura — Cavaleiro Humano",
+          "flavor": "\"Jamais pare antes de ver sua lança atravessada do outro lado.\" —Telim'Tor",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=131713&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 131713
+        },
+        {
+          "name": "Копьеносец Суквата",
+          "text": "Ускорение\nОбход (Когда существо без обхода блокирует это существо, тогда это блокирующее существо получает -1/-1 до конца хода.)",
+          "type": "Существо — - Человек Рыцарь",
+          "flavor": "«Не останавливайся до тех пор, пока копье не выйдет с другой стороны», Телим'Тор",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=131834&type=card",
+          "language": "Russian",
+          "multiverseid": 131834
+        },
+        {
+          "name": "舒夸塔的枪骑兵",
+          "text": "敏捷\n侧面攻击（每当一个不具侧面攻击之生物阻挡此生物时，该阻挡生物得-1/-1直到回合结束。）",
+          "type": "生物～人类／骑士",
+          "flavor": "「在没看见矛尖从另一头穿出前不准停。」 ～泰林托",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=131108&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 131108
+        }
+      ],
+      "printings": ["DMR", "TSB", "VIS", "WC97"],
+      "originalText": "Haste\nFlanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)",
+      "originalType": "Creature - Human Knight",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "42f00ac9-22bc-5a61-b5e0-3bd4a1f1a90c"
+    },
+    {
+      "name": "Gix, Yawgmoth Praetor",
+      "manaCost": "{1}{B}{B}",
+      "cmc": 3.0,
+      "colors": ["B"],
+      "colorIdentity": ["B"],
+      "type": "Legendary Creature — Phyrexian Praetor",
+      "supertypes": ["Legendary"],
+      "types": ["Creature"],
+      "subtypes": ["Phyrexian", "Praetor"],
+      "rarity": "Mythic",
+      "set": "BRO",
+      "setName": "The Brothers' War",
+      "text": "Whenever a creature deals combat damage to one of your opponents, its controller may pay 1 life. If they do, they draw a card.\n{4}{B}{B}{B}, Discard X cards: Exile the top X cards of target opponent's library. You may play lands and cast spells from among cards exiled this way without paying their mana costs.",
+      "artist": "Anna Podedworna",
+      "number": "326",
+      "power": "3",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": "585729",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=585729&type=card",
+      "variations": ["e9b50125-62d1-5dea-bc7c-5ed5c1ca239c"],
+      "rulings": [
+        {
+          "date": "2022-10-14",
+          "text": "You must play the cards as you resolve the last ability. You can’t wait and play them later."
+        },
+        {
+          "date": "2022-10-14",
+          "text": "You may play a land this way only during your own turn and only if you have not yet played a land this turn."
+        },
+        {
+          "date": "2022-10-14",
+          "text": "If a spell you cast this way has an {X} in its mana cost, you must choose 0 for X."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Gix, Prätor von Yawgmoth",
+          "text": "Immer wenn eine Kreatur einem deiner Gegner Kampfschaden zufügt, kann ihr Beherrscher 1 Lebenspunkt bezahlen. Falls er dies tut, zieht er eine Karte.\n{4}{B}{B}{B}, wirf X Karten ab: Schicke die obersten X Karten der Bibliothek eines Gegners deiner Wahl ins Exil. Du kannst von den auf diese Weise ins Exil geschickten Karten Länder spielen und Zaubersprüche wirken, ohne ihre Manakosten zu bezahlen.",
+          "type": "Legendäre Kreatur — Phyrexianer, Prätor",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=585801&type=card",
+          "language": "German",
+          "multiverseid": 585801
+        },
+        {
+          "name": "Gix, praetor de Yaugzebul",
+          "text": "À chaque fois qu'une créature inflige des blessures de combat à l'un de vos adversaires, son contrôleur peut payer 1 point de vie. S'il fait ainsi, il pioche une carte.\n{4}{B}{B}{B}, défaussez-vous de X cartes : Exilez les X cartes du dessus de la bibliothèque d'un adversaire ciblé. Vous pouvez jouer des terrains et lancer des sorts parmi les cartes exilées de cette manière sans payer leur coût de mana.",
+          "type": "Créature légendaire : phyrexian et praetor",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=585873&type=card",
+          "language": "French",
+          "multiverseid": 585873
+        },
+        {
+          "name": "ヨーグモスの法務官、ギックス",
+          "text": "クリーチャー１体があなたの対戦相手１人に戦闘ダメージを与えるたび、それのコントローラーは１点のライフを支払ってもよい。そうしたなら、そのプレイヤーはカード１枚を引く。\n{4}{B}{B}{B}, カードＸ枚を捨てる：対戦相手１人を対象とする。そのプレイヤーのライブラリーの一番上にあるカードＸ枚を追放する。あなたはこれにより追放されているカードの中から、土地をプレイしたりマナ・コストを支払うことなく呪文を唱えたりしてもよい。",
+          "type": "伝説のクリーチャー — ファイレクシアン・法務官",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=585945&type=card",
+          "language": "Japanese",
+          "multiverseid": 585945
+        },
+        {
+          "name": "约格莫夫判官基克斯",
+          "text": "每当一个生物向你的任一对手造成战斗伤害时，其操控者可以支付1点生命。若其如此作，则其抓一张牌。\n{4}{B}{B}{B}，弃X张牌：放逐目标对手牌库顶的X张牌。你可以从以此法放逐的牌之中使用地和施放咒语，且不需支付其法术力费用。",
+          "type": "传奇生物 ～非瑞人／魔判官",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=586017&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 586017
+        }
+      ],
+      "printings": ["BRO", "PBRO", "PRM"],
+      "originalText": "Whenever a creature deals combat damage to one of your opponents, its controller may pay 1 life. If they do, they draw a card.\n{4}{B}{B}{B}, Discard X cards: Exile the top X cards of target opponent's library. You may play lands and cast spells from among cards exiled this way without paying their mana costs.",
+      "originalType": "Legendary Creature — Phyrexian Praetor",
+      "legalities": [
+        {
+          "format": "Alchemy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Explorer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Gladiator",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historicbrawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "676270f1-744d-5dfe-b46f-7d415bc75bdd"
+    },
+    {
+      "name": "Edric, Spymaster of Trest",
+      "manaCost": "{1}{G}{U}",
+      "cmc": 3.0,
+      "colors": ["G", "U"],
+      "colorIdentity": ["G", "U"],
+      "type": "Legendary Creature — Elf Rogue",
+      "supertypes": ["Legendary"],
+      "types": ["Creature"],
+      "subtypes": ["Elf", "Rogue"],
+      "rarity": "Rare",
+      "set": "CMD",
+      "setName": "Commander 2011",
+      "text": "Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.",
+      "flavor": "\"I am not at liberty to reveal my sources, but I can assure you, the price on your head is high.\"",
+      "artist": "Volkan Baǵa",
+      "number": "196",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": "230000",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230000&type=card",
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "A creature controlled by an opponent that deals combat damage to another opponent will cause Edric’s ability to trigger. The creature’s controller chooses whether to draw a card."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "When a creature you control deals combat damage to one of your opponents, you may draw a card."
+        },
+        {
+          "date": "2015-01-19",
+          "text": "Edric, Spymaster of Trest is banned as a commander in Duel Commander format, but it may be part of your deck."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Edric, Meisterspion von Trest",
+          "text": "Immer wenn eine Kreatur einem deiner Gegner Kampfschaden zufügt, kann ihr Beherrscher eine Karte ziehen.",
+          "type": "Legendäre Kreatur — Elf, Räuber",
+          "flavor": "„Es steht mir nicht frei, meine Quellen zu nennen, aber ich kann dir versichern, dass das Kopfgeld auf dich hoch ist.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=260534&type=card",
+          "language": "German",
+          "multiverseid": 260534
+        },
+        {
+          "name": "Edric, maestro espía de Trest",
+          "text": "Siempre que una criatura haga daño de combate a uno de tus oponentes, su controlador puede robar una carta.",
+          "type": "Criatura legendaria — Bribón elfo",
+          "flavor": "\"No tengo la libertad de revelar mis fuentes, pero puedo asegurarte que pagan mucho por su cabeza.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=260852&type=card",
+          "language": "Spanish",
+          "multiverseid": 260852
+        },
+        {
+          "name": "Edric, maître espion de Trest",
+          "text": "À chaque fois qu'une créature inflige des blessures de combat à l'un de vos adversaires, son contrôleur peut piocher une carte.",
+          "type": "Créature légendaire : elfe et gredin",
+          "flavor": "« Je ne suis pas libre de révéler mes sources, mais je puis vous assurer que votre tête est fort mise à prix. »",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=261519&type=card",
+          "language": "French",
+          "multiverseid": 261519
+        },
+        {
+          "name": "Edric, Capospia di Trest",
+          "text": "Ogniqualvolta una creatura infligge danno da combattimento a uno dei tuoi avversari, il suo controllore può pescare una carta.",
+          "type": "Creatura Leggendaria — Farabutto Elfo",
+          "flavor": "\"Non sono libero di rivelare le mie fonti, ma posso assicurarti che la taglia sulla tua testa è alta.\"",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262156&type=card",
+          "language": "Italian",
+          "multiverseid": 262156
+        },
+        {
+          "name": "トレストの密偵長、エドリック",
+          "text": "クリーチャーが１体あなたの対戦相手の１人に戦闘ダメージを与えるたび、それのコントローラーはカードを１枚引いてもよい。",
+          "type": "伝説のクリーチャー — エルフ・ならず者",
+          "flavor": "「情報元を明かすわけにはいかないが、お前の首の値段が高いのだけは保証する。」",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=261838&type=card",
+          "language": "Japanese",
+          "multiverseid": 261838
+        }
+      ],
+      "printings": ["C16", "CM1", "CMD", "CNS", "PCMD", "PZ1", "VMA"],
+      "originalText": "Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.",
+      "originalType": "Legendary Creature — Elf Rogue",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Restricted"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "d2bef841-c67e-5bf2-8a3f-195f56d5c481"
+    },
+    {
+      "name": "God-Eternal Kefnet",
+      "manaCost": "{2}{U}{U}",
+      "cmc": 4.0,
+      "colors": ["U"],
+      "colorIdentity": ["U"],
+      "type": "Legendary Creature — Zombie God",
+      "supertypes": ["Legendary"],
+      "types": ["Creature"],
+      "subtypes": ["Zombie", "God"],
+      "rarity": "Mythic",
+      "set": "PWAR",
+      "setName": "War of the Spark Promos",
+      "text": "Flying\nYou may reveal the first card you draw each turn as you draw it. Whenever you reveal an instant or sorcery card this way, copy that card and you may cast the copy. That copy costs {2} less to cast.\nWhen God-Eternal Kefnet dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",
+      "artist": "Lius Lasahido",
+      "number": "53s",
+      "power": "4",
+      "toughness": "5",
+      "layout": "normal",
+      "rulings": [
+        {
+          "date": "2019-05-03",
+          "text": "It’s important to reveal the first card you draw each turn (or choose not to reveal it) before it is mixed with the other cards in your hand. You look at the card as you draw it before choosing whether to reveal it."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "You don’t have to reveal a drawn card if you don’t wish to copy it at that time."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "If you reveal a card this way, it remains revealed until Kefnet’s triggered ability finishes resolving."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "You can reveal and copy an instant or sorcery card this way on any turn, not just your own, if it’s the first card you’ve drawn that turn."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "Multiple card draws are always treated as a sequence of individual card draws. For example, if you haven’t drawn any cards yet during a turn and cast a spell that instructs you to draw three cards, you’ll draw them one at a time. Only the first card drawn this way may be revealed and copied with Kefnet’s ability."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "If an effect puts a card into your hand without using the word “draw,” the card wasn’t drawn."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "You can cast the copy only as Kefnet’s triggered ability resolves. If you don’t want to cast it at that time (or you can’t cast it, perhaps because there are no legal targets available), the copy ceases to exist. You can’t cast it later."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "You can cast the copy during the resolution of the triggered ability if it’s a sorcery, no matter whose turn it is or which phase it is."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "If the card leaves your hand before Kefnet’s triggered ability resolves, you’ll copy it using its last known information."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "The copy is created in and cast from your hand."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "To determine the total cost of a spell, start with the mana cost or alternative cost you’re paying, add any cost increases, then apply any cost reductions (such as that of Kefnet’s ability). The converted mana cost of the spell remains unchanged, no matter what the total cost to cast it was."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "If you somehow control more than one God-Eternal Kefnet (perhaps because one is a Spark Double), you may reveal a card you draw for any number of their abilities. One at a time, each will copy the card if it’s an instant or sorcery, and you may cast each of them. Each copy resolves before you cast the next, and each copy’s cost is reduced by only {2}."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "If one of these Gods leaves the graveyard or exile while its last ability is on the stack, it will remain in its new zone, even if that zone is a graveyard or exile."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "If the God’s owner has two or fewer cards in their library, the God is put on the bottom of their library as its last ability resolves."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "If you control another player’s God when it dies, you decide whether to put that card into its owner’s library."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "If an effect exiles the God and immediately returns it to the battlefield, its last ability triggers but will have no effect. However, if an effect exiles it and would return it to the battlefield at a later time, the God’s ability may return that card its owner’s library first. If it does, the effect that exiled it won’t return it later."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "In a multiplayer game, if you put another player’s God onto the battlefield under your control, it will be exiled as you leave the game. If you were still the controller of that God, you would control its triggered ability but you have left the game; that ability won’t resolve and the card remains in exile. Similarly, if you lose the game at the same time that another player’s God that you put onto the battlefield is destroyed, it remains in its owner’s graveyard."
+        },
+        {
+          "date": "2019-05-03",
+          "text": "If one of these Gods would die and it’s your commander in the Commander variant, you may put it into the command zone instead. If you save your commander this way, it doesn’t die and you won’t put it into your library. The same is true if it would be exiled."
+        }
+      ],
+      "printings": ["PS19", "PWAR", "WAR"],
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Explorer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Gladiator",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historicbrawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "61f173d8-2a62-5f3e-999d-70d7f084390c"
+    },
+    {
+      "name": "Guttersnipe",
+      "manaCost": "{2}{R}",
+      "cmc": 3.0,
+      "colors": ["R"],
+      "colorIdentity": ["R"],
+      "type": "Creature — Goblin Shaman",
+      "types": ["Creature"],
+      "subtypes": ["Goblin", "Shaman"],
+      "rarity": "Uncommon",
+      "set": "GK1",
+      "setName": "GRN Guild Kit",
+      "text": "Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent.",
+      "flavor": "He wants to watch Ravnica burn, one soul at a time.",
+      "artist": "Steve Prescott",
+      "number": "31",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": "456221",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=456221&type=card",
+      "rulings": [
+        {
+          "date": "2018-07-13",
+          "text": "Guttersnipe’s triggered ability resolves before the spell that caused it to trigger. It resolves even if that spell is countered."
+        },
+        {
+          "date": "2018-07-13",
+          "text": "In a Two-Headed Giant game, Guttersnipe’s ability causes the opposing team to lose 4 life."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Gossenschütze",
+          "text": "Immer wenn du einen Spontanzauber oder eine Hexerei wirkst, fügt der Gossenschütze jedem Gegner 2 Schadenspunkte zu.",
+          "type": "Kreatur — Goblin, Schamane",
+          "flavor": "Er will sehen, wie Ravnica brennt, Seele für Seele.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=456245&type=card",
+          "language": "German",
+          "multiverseid": 456245
+        },
+        {
+          "name": "Disparacuneta",
+          "text": "Siempre que lances un hechizo de instantáneo o de conjuro, el Disparacuneta hace 2 puntos de daño a cada oponente.",
+          "type": "Criatura — Chamán trasgo",
+          "flavor": "Quiere ver arder Rávnica, un alma tras otra.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=456269&type=card",
+          "language": "Spanish",
+          "multiverseid": 456269
+        },
+        {
+          "name": "Gobelin des rues",
+          "text": "À chaque fois que vous lancez un sort d'éphémère ou de rituel, le Gobelin des rues inflige 2 blessures à chaque adversaire.",
+          "type": "Créature : gobelin et shamane",
+          "flavor": "Il veut voir Ravnica brûler, âme après âme.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=456293&type=card",
+          "language": "French",
+          "multiverseid": 456293
+        },
+        {
+          "name": "Cecchino",
+          "text": "Ogniqualvolta lanci una magia istantaneo o stregoneria, il Cecchino infligge 2 danni a ogni avversario.",
+          "type": "Creatura — Sciamano Goblin",
+          "flavor": "Vuole vedere Ravnica bruciare, un'anima alla volta.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=456317&type=card",
+          "language": "Italian",
+          "multiverseid": 456317
+        },
+        {
+          "name": "どぶ潜み",
+          "text": "あなたがインスタントかソーサリーである呪文を唱えるたび、どぶ潜みは各対戦相手にそれぞれ２点のダメージを与える。",
+          "type": "クリーチャー — ゴブリン・シャーマン",
+          "flavor": "彼はラヴニカが炎上するのを、魂が一つずつ滅ぶのを見届けたがっている。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=456341&type=card",
+          "language": "Japanese",
+          "multiverseid": 456341
+        }
+      ],
+      "printings": [
+        "C13",
+        "C19",
+        "CN2",
+        "E01",
+        "GK1",
+        "IMA",
+        "M19",
+        "MB1",
+        "PLIST",
+        "PM19",
+        "PRM",
+        "RTR",
+        "SCD"
+      ],
+      "originalText": "Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent.",
+      "originalType": "Creature — Goblin Shaman",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Explorer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Gladiator",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historicbrawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Restricted"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "f008f3d3-9287-5f9b-b768-5460a8ba50ad"
+    },
+    {
+      "name": "Spitting Drake",
+      "manaCost": "{3}{R}",
+      "cmc": 4.0,
+      "colors": ["R"],
+      "colorIdentity": ["R"],
+      "type": "Creature — Drake",
+      "types": ["Creature"],
+      "subtypes": ["Drake"],
+      "rarity": "Uncommon",
+      "set": "6ED",
+      "setName": "Classic Sixth Edition",
+      "text": "Flying\n{R}: Spitting Drake gets +1/+0 until end of turn. Activate only once each turn.",
+      "flavor": "It prefers its meals cooked.",
+      "artist": "Geofrey Darrow & I. Rabarot",
+      "number": "207",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": "15418",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=15418&type=card",
+      "foreignNames": [
+        {
+          "name": "Feuerspeiender Sceada",
+          "text": "Fliegend\n{R}: Der Feuerspeiende Sceada erhält +1/+0 bis zum Ende des Zuges. Du kannst nicht mehr als {R} auf diese Weise pro Zug ausgeben.",
+          "type": "Kreatur — Sceada",
+          "flavor": null,
+          "language": "German",
+          "multiverseid": null
+        },
+        {
+          "name": "Draco escupefuego",
+          "flavor": null,
+          "language": "Spanish",
+          "multiverseid": null
+        },
+        {
+          "name": "Drakôn cracheur",
+          "flavor": null,
+          "language": "French",
+          "multiverseid": null
+        },
+        {
+          "name": "Draghetto Sputafuoco",
+          "flavor": null,
+          "language": "Italian",
+          "multiverseid": null
+        },
+        {
+          "name": "火吹きドレイク",
+          "flavor": null,
+          "language": "Japanese",
+          "multiverseid": null
+        },
+        {
+          "name": "Dragonete Cospe-Fogo",
+          "flavor": null,
+          "language": "Portuguese (Brazil)",
+          "multiverseid": null
+        }
+      ],
+      "printings": ["6ED", "VIS"],
+      "originalText": "Flying\noo\nR Spitting Drake gets +1/+0 until end of turn. Spend no more than o\nR this way each turn.",
+      "originalType": "Creature - Drake",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Restricted"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "0f685883-f795-561c-b765-264154e0c57d"
+    },
+    {
+      "name": "Zurgo Helmsmasher",
+      "manaCost": "{2}{R}{W}{B}",
+      "cmc": 5.0,
+      "colors": ["B", "R", "W"],
+      "colorIdentity": ["B", "R", "W"],
+      "type": "Legendary Creature — Orc Warrior",
+      "supertypes": ["Legendary"],
+      "types": ["Creature"],
+      "subtypes": ["Orc", "Warrior"],
+      "rarity": "Mythic",
+      "set": "KTK",
+      "setName": "Khans of Tarkir",
+      "text": "Haste\nZurgo Helmsmasher attacks each combat if able.\nZurgo Helmsmasher has indestructible as long as it's your turn.\nWhenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a +1/+1 counter on Zurgo Helmsmasher.",
+      "artist": "Aleksi Briclot",
+      "number": "214",
+      "power": "7",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": "386731",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386731&type=card",
+      "watermark": "mardu",
+      "rulings": [
+        {
+          "date": "2014-09-20",
+          "text": "You still choose which player or planeswalker Zurgo Helmsmasher attacks."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "If, during your declare attackers step, Zurgo is tapped or is affected by a spell or ability that says it can’t attack, then it doesn’t attack. If there’s a cost associated with having Zurgo attack, you aren’t forced to pay that cost, so it doesn’t have to attack in that case either."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "If Zurgo enters the battlefield before the combat phase, it will attack that turn if able. If it enters the battlefield after combat, it won’t attack that turn and will usually be available to block on the following turn."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Each time a creature dies, check whether Zurgo had dealt any damage to it at any time during that turn. If so, Zurgo’s ability will trigger. It doesn’t matter who controlled the creature or whose graveyard it went to."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Zurgo Helmbrecher",
+          "text": "Eile\nZurgo Helmbrecher greift in jedem Kampf an, falls möglich.\nZurgo Helmbrecher hat Unzerstörbarkeit, solange es dein Zug ist.\nImmer wenn eine Kreatur stirbt, der in diesem Zug von Zurgo Helmbrecher Schaden zugefügt wurde, lege eine +1/+1-Marke auf Zurgo Helmbrecher.",
+          "type": "Legendäre Kreatur — Ork, Krieger",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387538&type=card",
+          "language": "German",
+          "multiverseid": 387538
+        },
+        {
+          "name": "Zurgo Aplastacráneos",
+          "text": "Prisa.\nZurgo Aplastacráneos ataca cada combate si puede.\nZurgo Aplastacráneos tiene la habilidad de indestructible mientras sea tu turno.\nSiempre que una criatura que haya recibido daño de Zurgo Aplastacráneos este turno muera, pon un contador +1/+1 sobre Zurgo Aplastacráneos.",
+          "type": "Criatura legendaria — Guerrero orco",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=389421&type=card",
+          "language": "Spanish",
+          "multiverseid": 389421
+        },
+        {
+          "name": "Zurgo Brisecasque",
+          "text": "Célérité\nZurgo Brisecasque attaque à chaque combat si possible.\nZurgo Brisecasque a l'indestructible tant que c'est votre tour.\nÀ chaque fois qu'une créature blessée par Zurgo Brisecasque ce tour-ci meurt, mettez un marqueur +1/+1 sur Zurgo Brisecasque.",
+          "type": "Créature légendaire : orque et guerrier",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387807&type=card",
+          "language": "French",
+          "multiverseid": 387807
+        },
+        {
+          "name": "Zurgo Spaccaelmi",
+          "text": "Rapidità\nZurgo Spaccaelmi attacca in ogni combattimento, se può farlo.\nZurgo Spaccaelmi ha indistruttibile fintanto che è il tuo turno.\nOgniqualvolta una creatura a cui è stato inflitto danno da Zurgo Spaccaelmi in questo turno muore, metti un segnalino +1/+1 su Zurgo Spaccaelmi.",
+          "type": "Creatura Leggendaria — Guerriero Orco",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388076&type=card",
+          "language": "Italian",
+          "multiverseid": 388076
+        },
+        {
+          "name": "兜砕きのズルゴ",
+          "text": "速攻\n兜砕きのズルゴは可能なら各戦闘で攻撃する。\nあなたのターンであるかぎり、兜砕きのズルゴは破壊不能を持つ。\nこのターンに、兜砕きのズルゴによってダメージを与えられたクリーチャーが１体死亡するたび、兜砕きのズルゴの上に＋１/＋１カウンターを１個置く。",
+          "type": "伝説のクリーチャー — オーク・戦士",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388345&type=card",
+          "language": "Japanese",
+          "multiverseid": 388345
+        },
+        {
+          "name": "투구분쇄자 주르고",
+          "text": "신속\n투구분쇄자 주르고는 가능하면 매 전투마다 공격한다.\n투구분쇄자 주르고는 당신의 턴인 한, 무적을 가진다.\n투구분쇄자 주르고에게 이 턴에 피해를 입은 생물이 죽을 때마다, 투구분쇄자 주르고에 +1/+1 카운터 한 개를 올려놓는다.",
+          "type": "전설적 생물 — 오크 전사",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388614&type=card",
+          "language": "Korean",
+          "multiverseid": 388614
+        },
+        {
+          "name": "Zurgo Quebra-elmo",
+          "text": "Ímpeto\nZurgo Quebra-elmo ataca a cada combate se estiver apto.\nZurgo Quebra-elmo tem indestrutível enquanto for o seu turno.\nToda vez que uma criatura que tiver sofrido dano de Zurgo Quebra-elmo neste turno morrer, coloque um marcador +1/+1 em Zurgo Quebra-elmo.",
+          "type": "Criatura Lendária — Orc Guerreiro",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=388883&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 388883
+        },
+        {
+          "name": "Зурго Шлемобой",
+          "text": "Ускорение\nЗурго Шлемобой атакует в каждом бою, если может.\nЗурго Шлемобой имеет Неразрушимость, пока длится ваш ход.\nКаждый раз, когда существо, которому Зурго Шлемобой нанес повреждения в этом ходу, умирает, положите один жетон +1/+1 на Зурго Шлемобоя.",
+          "type": "Легендарное Существо — Орк Воин",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=389152&type=card",
+          "language": "Russian",
+          "multiverseid": 389152
+        },
+        {
+          "name": "碎盔珠高",
+          "text": "敏捷\n碎盔珠高每次战斗若能攻击，则必须攻击。\n只要是在你的回合中，碎盔珠高便具有不灭异能。\n每当一个本回合中曾受到碎盔珠高伤害的生物死去时，在碎盔珠高上放置一个+1/+1指示物。",
+          "type": "传奇生物～半兽人／战士",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387000&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 387000
+        },
+        {
+          "name": "碎盔珠高",
+          "text": "敏捷\n碎盔珠高每次戰鬥若能攻擊，則必須攻擊。\n只要是在你的回合中，碎盔珠高便具有不滅異能。\n每當一個本回合中曾受到碎盔珠高傷害的生物死去時，在碎盔珠高上放置一個+1/+1指示物。",
+          "type": "傳奇生物～半獸人／戰士",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=387269&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 387269
+        }
+      ],
+      "printings": ["DDN", "KTK", "PKTK", "PRM", "SLD"],
+      "originalText": "Haste\nZurgo Helmsmasher attacks each combat if able.\nZurgo Helmsmasher has indestructible as long as it's your turn.\nWhenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a +1/+1 counter on Zurgo Helmsmasher.",
+      "originalType": "Legendary Creature — Orc Warrior",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "cde24b01-b97c-5f77-9961-6d9ac24ab172"
+    },
+    {
+      "name": "Hanged Executioner",
+      "manaCost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": ["W"],
+      "colorIdentity": ["W"],
+      "type": "Creature — Spirit",
+      "types": ["Creature"],
+      "subtypes": ["Spirit"],
+      "rarity": "Rare",
+      "set": "PM20",
+      "setName": "Core Set 2020 Promos",
+      "text": "Flying\nWhen Hanged Executioner enters the battlefield, create a 1/1 white Spirit creature token with flying.\n{3}{W}, Exile Hanged Executioner: Exile target creature.",
+      "artist": "Johann Bodin",
+      "number": "22p",
+      "power": "1",
+      "toughness": "1",
+      "layout": "normal",
+      "variations": ["d56a894f-2f69-5ab2-b45d-cc6b153f7f3a"],
+      "printings": ["M20", "PM20", "SCD", "VOC"],
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Explorer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Gladiator",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historicbrawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "177d9b73-d608-5dfa-a407-fec0c30b2bcb"
+    },
+    {
+      "name": "Goblin Gang Leader",
+      "manaCost": "{2}{R}{R}",
+      "cmc": 4.0,
+      "colors": ["R"],
+      "colorIdentity": ["R"],
+      "type": "Creature — Goblin Warrior",
+      "types": ["Creature"],
+      "subtypes": ["Goblin", "Warrior"],
+      "rarity": "Uncommon",
+      "set": "ANB",
+      "setName": "Arena Beginner Set",
+      "text": "When Goblin Gang Leader enters the battlefield, create two 1/1 red Goblin creature tokens.",
+      "artist": "Jakub Kasper",
+      "number": "70",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "printings": ["ANB", "XANA"],
+      "legalities": [
+        {
+          "format": "Alchemy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Gladiator",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historicbrawl",
+          "legality": "Legal"
+        }
+      ],
+      "id": "ffe762bf-b14f-5f58-a4fc-5d9e0dc0f291"
+    },
+    {
+      "name": "Hapatra, Vizier of Poisons",
+      "manaCost": "{B}{G}",
+      "cmc": 2.0,
+      "colors": ["B", "G"],
+      "colorIdentity": ["B", "G"],
+      "type": "Legendary Creature — Human Cleric",
+      "supertypes": ["Legendary"],
+      "types": ["Creature"],
+      "subtypes": ["Human", "Cleric"],
+      "rarity": "Rare",
+      "set": "AKR",
+      "setName": "Amonkhet Remastered",
+      "text": "Whenever Hapatra, Vizier of Poisons deals combat damage to a player, you may put a -1/-1 counter on target creature.\nWhenever you put one or more -1/-1 counters on a creature, create a 1/1 green Snake creature token with deathtouch.",
+      "artist": "Tyler Jacobson",
+      "number": "238",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": "547705",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=547705&type=card",
+      "rulings": [
+        {
+          "date": "2017-04-18",
+          "text": "If you put any number of -1/-1 counters on more than one creature at once, Hapatra’s last ability triggers once for each of those creatures."
+        },
+        {
+          "date": "2017-04-18",
+          "text": "If you put enough -1/-1 counters on Hapatra so that its toughness is 0 or less, its last ability triggers."
+        },
+        {
+          "date": "2017-04-18",
+          "text": "If a creature with wither or infect deals damage to a creature, the controller of the creature with wither or infect puts that many -1/-1 counters on the second creature."
+        }
+      ],
+      "printings": ["AKH", "AKR", "PAKH"],
+      "originalText": "Whenever Hapatra, Vizier of Poisons deals combat damage to a player, you may put a -1/-1 counter on target creature.\nWhenever you put one or more -1/-1 counters on a creature, create a 1/1 green Snake creature token with deathtouch.",
+      "originalType": "Legendary Creature — Human Cleric",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Explorer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Gladiator",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historicbrawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "483554c7-ce4e-5db3-88e2-14ee312e1779"
+    },
+    {
+      "name": "Wall of Torches",
+      "manaCost": "{1}{R}",
+      "cmc": 2.0,
+      "colors": ["R"],
+      "colorIdentity": ["R"],
+      "type": "Creature — Wall",
+      "types": ["Creature"],
+      "subtypes": ["Wall"],
+      "rarity": "Common",
+      "set": "M12",
+      "setName": "Magic 2012",
+      "text": "Defender (This creature can't attack.)",
+      "flavor": "The foolish try to leap through the unlit spaces. The arrogant believe the fires harmless. The wise find a different door.",
+      "artist": "Mike Bierek",
+      "number": "159",
+      "power": "4",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": "220189",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220189&type=card",
+      "foreignNames": [
+        {
+          "name": "Mauer aus Fackeln",
+          "text": "Verteidiger (Diese Kreatur kann nicht angreifen.)",
+          "type": "Kreatur — Mauer",
+          "flavor": "Die Dummen versuchen, sich hindurchzuschlängeln. Die Arroganten glauben, das Feuer sei harmlos. Die Weisen finden eine andere Tür.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=263783&type=card",
+          "language": "German",
+          "multiverseid": 263783
+        },
+        {
+          "name": "Muro de antorchas",
+          "text": "Defensor. (Esta criatura no puede atacar.)",
+          "type": "Criatura — Muro",
+          "flavor": "Los tontos intentan saltar por los espacios libres. Los arrogantes creen que el fuego es inofensivo. Los listos buscan otra puerta.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=265028&type=card",
+          "language": "Spanish",
+          "multiverseid": 265028
+        },
+        {
+          "name": "Mur de torches",
+          "text": "Défenseur (Cette créature ne peut pas attaquer.)",
+          "type": "Créature : mur",
+          "flavor": "Les imbéciles essaient de franchir les espaces non éclairés. Les arrogants pensent que les flammes sont inoffensives. Les sages trouvent une autre porte.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=263534&type=card",
+          "language": "French",
+          "multiverseid": 263534
+        },
+        {
+          "name": "Muro di Torce",
+          "text": "Difensore (Questa creatura non può attaccare.)",
+          "type": "Creatura — Muro",
+          "flavor": "Lo sciocco tenta di saltare attraverso gli spazi non accesi. L'arrogante crede che le fiamme siano innocue. Il saggio trova un'altra porta.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=264032&type=card",
+          "language": "Italian",
+          "multiverseid": 264032
+        },
+        {
+          "name": "松明の壁",
+          "text": "防衛 （このクリーチャーは攻撃できない。）",
+          "type": "クリーチャー — 壁",
+          "flavor": "愚か者は火のついていない場所を跳び抜けようとする。 傲慢な者はこんな火など害はないと考える。 賢者は別な扉を見つける。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=264281&type=card",
+          "language": "Japanese",
+          "multiverseid": 264281
+        },
+        {
+          "name": "횃불의 벽",
+          "text": "수비태세 (이 생물은 공격할 수 없다.)",
+          "type": "생물 — 벽",
+          "flavor": "어리석은 자들은 불 사이를 통과하려 한다. 교만한 자들은 불이 허상이라고 빋는다. 현명한 자들은 다른 문을 찾는다.",
+          "language": "Korean",
+          "multiverseid": null
+        },
+        {
+          "name": "Barreira de Tochas",
+          "text": "Defensor (Esta criatura não pode atacar.)",
+          "type": "Criatura — Barreira",
+          "flavor": "O tolo tenta saltar pelos espaços não iluminados. O arrogante acredita que o fogo é inócuo. O esperto encontra outra porta.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=264530&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 264530
+        },
+        {
+          "name": "Стена Факелов",
+          "text": "Защитник (Это существо не может атаковать.)",
+          "type": "Существо — Стена",
+          "flavor": "Глупые пытаются проскочить через участки, не занятые огнем. Самонадеянные считают, что этот огонь не опасен. Мудрые находят другую дверь.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=264779&type=card",
+          "language": "Russian",
+          "multiverseid": 264779
+        },
+        {
+          "name": "火炬墙",
+          "text": "守军 （此生物不能攻击。）",
+          "type": "生物～墙",
+          "flavor": "愚者会想从火光暗处跳越。 骄者相信火焰伤不到自己。 智者去找别的门道。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=263036&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 263036
+        },
+        {
+          "name": "火炬牆",
+          "text": "守軍 （此生物不能攻擊。）",
+          "type": "生物～牆",
+          "flavor": "愚者會想從火光暗處跳越。 驕者相信火焰傷不到自己。 智者去找別的門道。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=263285&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 263285
+        }
+      ],
+      "printings": ["M12"],
+      "originalText": "Defender (This creature can't attack.)",
+      "originalType": "Creature — Wall",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "a3000179-5ae2-5f0f-a8eb-972505bf7581"
+    },
+    {
+      "name": "Wild Griffin",
+      "manaCost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": ["W"],
+      "colorIdentity": ["W"],
+      "type": "Creature — Griffin",
+      "types": ["Creature"],
+      "subtypes": ["Griffin"],
+      "rarity": "Common",
+      "set": "S99",
+      "setName": "Starter 1999",
+      "text": "Flying",
+      "flavor": "Two little goblins, out in the sun. Down came a griffin, and then there was one.",
+      "artist": "Jeff Miracola",
+      "number": "31",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": "21058",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=21058&type=card",
+      "printings": ["10E", "CN2", "M11", "MB1", "ME4", "P02", "S00", "S99"],
+      "originalText": "Flying",
+      "originalType": "Creature - Griffin",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "0572e95d-c98b-5123-ba8c-39d9a93ab423"
+    },
+    {
+      "name": "Quicksilver Behemoth",
+      "manaCost": "{6}{U}",
+      "cmc": 7.0,
+      "colors": ["U"],
+      "colorIdentity": ["U"],
+      "type": "Creature — Beast",
+      "types": ["Creature"],
+      "subtypes": ["Beast"],
+      "rarity": "Common",
+      "set": "DST",
+      "setName": "Darksteel",
+      "text": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nWhen Quicksilver Behemoth attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)",
+      "artist": "Anthony S. Waters",
+      "number": "30",
+      "power": "4",
+      "toughness": "5",
+      "layout": "normal",
+      "multiverseid": "47799",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=47799&type=card",
+      "foreignNames": [
+        {
+          "name": "Quecksilber-Behemoth",
+          "text": "Affinität zu Artefakten (Dieser Zauberspruch kostet beim Ausspielen für jedes Artefakt, das du kontrollierst, {1} weniger.)\nWenn der Quecksilber-Behemoth angreift oder blockt, bringe ihn am Ende des Kampfes auf die Hand seines Besitzers zurück. (Bringe ihn nur zurück, falls er im Spiel ist.)",
+          "type": "Kreatur — Bestie",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=76407&type=card",
+          "language": "German",
+          "multiverseid": 76407
+        },
+        {
+          "name": "Behemot de mercurio",
+          "text": "Afinidad por artefactos (Este hechizo te cuesta {1} menos para jugarlo por cada artefacto que controles.)\nCuando el Behemot de mercurio ataque o bloquee, regrésalo a la mano de su propietario al final del combate. (Regrésalo sólo si está en juego.)",
+          "type": "Criatura — Bestia",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=75582&type=card",
+          "language": "Spanish",
+          "multiverseid": 75582
+        },
+        {
+          "name": "Béhémoth de vif-argent",
+          "text": "Affinité pour les artefacts (Ce sort coûte {1} de moins à jouer pour chaque artefact que vous contrôlez.)\nQuand le Béhémoth de vif-argent attaque ou bloque, renvoyez-le dans la main de son propriétaire à la fin du combat. (Renvoyez-le uniquement s'il est en jeu.)",
+          "type": "Créature : bête",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=76077&type=card",
+          "language": "French",
+          "multiverseid": 76077
+        },
+        {
+          "name": "Behemoth di Mercurio",
+          "text": "Affinità con gli artefatti (Questa magia costa {1} in meno per essere giocata per ogni artefatto che controlli.)\nQuando il Behemoth di Mercurio attacca o blocca, il proprietario lo riprende in mano alla fine del combattimento. (Soltanto se è in gioco.)",
+          "type": "Creatura — Bestia",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=75747&type=card",
+          "language": "Italian",
+          "multiverseid": 75747
+        },
+        {
+          "name": "水銀のビヒモス",
+          "text": "親和（アーティファクト） （この呪文をプレイするためのコストは、あなたがコントロールするアーティファクト１つにつき{1}少なくなる。）\n水銀のビヒモスが攻撃かブロックに参加したとき、戦闘終了時にそれをオーナーの手札に戻す。 （場にあるときだけ戻す。）",
+          "type": "クリーチャー — ビースト",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=76242&type=card",
+          "language": "Japanese",
+          "multiverseid": 76242
+        },
+        {
+          "name": "Behemoth de Mercúrio",
+          "text": "Afinidade por artefatos (Esta mágica custa {1} a menos para jogar para cada artefato que você controla.)\nQuando Behemoth de Mercúrio ataca ou bloqueia, devolva-o para a mão de seu dono no final do combate. (Devolva-o apenas se ele estiver em jogo.)",
+          "type": "Criatura — Besta",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=75912&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 75912
+        },
+        {
+          "name": "水银贝西摩斯",
+          "text": "神器共鸣（你每操控一个神器，使用此咒语的费用便减少{1}来使用）\n当水银贝西摩斯进行攻击或阻挡，在战斗结束时将它移回其拥有者的手上。 （若它在场上，你才须将之移回）",
+          "type": "生物～野兽",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=76572&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 76572
+        }
+      ],
+      "printings": ["DST"],
+      "originalText": "Affinity for artifacts (This spell costs {1} less to play for each artifact you control.)\nWhen Quicksilver Behemoth attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's in play.)",
+      "originalType": "Creature - Beast",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "9f44d218-9ee9-5e5d-9306-96f87645328f"
+    },
+    {
+      "name": "Burrog Befuddler",
+      "manaCost": "{1}{U}",
+      "cmc": 2.0,
+      "colors": ["U"],
+      "colorIdentity": ["U"],
+      "type": "Creature — Frog Wizard",
+      "types": ["Creature"],
+      "subtypes": ["Frog", "Wizard"],
+      "rarity": "Common",
+      "set": "STX",
+      "setName": "Strixhaven: School of Mages",
+      "text": "Flash\nWhen Burrog Befuddler enters the battlefield, target creature an opponent controls gets -1/-0 until end of turn.",
+      "flavor": "Students who seek river herbs in Doradur quickly find themselves slightly damp and thoroughly surrounded.",
+      "artist": "Zoltan Boros",
+      "number": "38",
+      "power": "2",
+      "toughness": "1",
+      "layout": "normal",
+      "multiverseid": "513515",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=513515&type=card",
+      "foreignNames": [
+        {
+          "name": "Burrog-Verwirrer",
+          "text": "Aufblitzen\nWenn der Burrog-Verwirrer ins Spiel kommt, erhält eine Kreatur deiner Wahl, die ein Gegner kontrolliert, -1/-0 bis zum Ende des Zuges.",
+          "type": "Kreatur — Frosch, Zauberer",
+          "flavor": "Studenten, die in Doradur nach Flusskräutern suchen, stellen schnell fest, dass sie etwas feucht und völlig umzingelt sind.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=513806&type=card",
+          "language": "German",
+          "multiverseid": 513806
+        },
+        {
+          "name": "Brujisapo aturdidor",
+          "text": "Destello.\nCuando el Brujisapo aturdidor entre al campo de batalla, la criatura objetivo que controla un oponente obtiene -1/-0 hasta el final del turno.",
+          "type": "Criatura — Hechicero rana",
+          "flavor": "Los estudiantes que buscan hierbas en los ríos de Dóradur acaban ligeramente empapados y completamente rodeados en menos que croa una rana.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=514097&type=card",
+          "language": "Spanish",
+          "multiverseid": 514097
+        },
+        {
+          "name": "Embrouilleur burrog",
+          "text": "Flash\nQuand l'Embrouilleur burrog arrive sur le champ de bataille, une créature ciblée qu'un adversaire contrôle gagne -1/-0 jusqu'à la fin du tour.",
+          "type": "Créature : grenouille et sorcier",
+          "flavor": "Les étudiants qui cherchent des herbes de rivière à Doradur se retrouvent rapidement trempés et cernés.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=514388&type=card",
+          "language": "French",
+          "multiverseid": 514388
+        },
+        {
+          "name": "Grac Disorientatore",
+          "text": "Lampo\nQuando il Grac Disorientatore entra nel campo di battaglia, una creatura bersaglio controllata da un avversario prende -1/-0 fino alla fine del turno.",
+          "type": "Creatura — Mago Rana",
+          "flavor": "Gli studenti in cerca di erbe di fiume a Doradur si trovano presto un poco umidi e molto circondati.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=514679&type=card",
+          "language": "Italian",
+          "multiverseid": 514679
+        },
+        {
+          "name": "バロッグの混乱起こし",
+          "text": "瞬速\nバロッグの混乱起こしが戦場に出たとき、対戦相手がコントロールしているクリーチャー１体を対象とする。ターン終了時まで、それは－１/－０の修整を受ける。",
+          "type": "クリーチャー — カエル・ウィザード",
+          "flavor": "ドラドゥールで水草を探す生徒は、自分が少々濡れて周囲を完全に囲まれていることに気づく。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=514970&type=card",
+          "language": "Japanese",
+          "multiverseid": 514970
+        },
+        {
+          "name": "버로그 장난꾼",
+          "text": "섬광\n버로그 장난꾼이 전장에 들어올 때, 상대가 조종하는 생물을 목표로 정한다. 그 생물은 턴종료까지 -1/-0을 받는다.",
+          "type": "생물 — 개구리 마법사",
+          "flavor": "도라두르에서 강 약초를 찾는 학생들은 이내 축축해진 상태로 완전히 둘러싸인 자신을 발견한다.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=515261&type=card",
+          "language": "Korean",
+          "multiverseid": 515261
+        },
+        {
+          "name": "Sapruxo Desorientador",
+          "text": "Lampejo\nQuando Sapruxo Desorientador entra no campo de batalha, a criatura alvo que um oponente controla recebe -1/-0 até o final do turno.",
+          "type": "Criatura — Sapo Mago",
+          "flavor": "Os alunos que procuram ervas ribeirinhas em Doradur rapidamente descobrem que estão um pouco molhados e completamente cercados.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=515552&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 515552
+        },
+        {
+          "name": "Буррог-Обманщик",
+          "text": "Миг\nКогда Буррог-Обманщик выходит на поле битвы, целевое существо под контролем оппонента получает -1/-0 до конца хода.",
+          "type": "Существо — Лягушка Чародей",
+          "flavor": "Студенты, собирающие речные травы в Дорадуре, быстро оказываются слегка промокшими и со всех сторон окруженными.",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=515843&type=card",
+          "language": "Russian",
+          "multiverseid": 515843
+        },
+        {
+          "name": "惑心布蛙",
+          "text": "闪现\n当惑心布蛙进战场时，目标由对手操控的生物得-1/-0直到回合结束。",
+          "type": "生物 ～蛙／法术师",
+          "flavor": "前往多拉度采摘河草的学生，很快就发现自己周身沾水，陷入重重包围。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=516134&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 516134
+        },
+        {
+          "name": "惑心布蛙",
+          "text": "閃現\n當惑心布蛙進戰場時，目標由對手操控的生物得-1/-0直到回合結束。",
+          "type": "生物 ～蛙／魔法師",
+          "flavor": "前往多拉度採摘河草的學生，很快就發現自己周身沾水，陷入重重包圍。",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=516425&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 516425
+        }
+      ],
+      "printings": ["STX"],
+      "originalText": "Flash\nWhen Burrog Befuddler enters the battlefield, target creature an opponent controls gets -1/-0 until end of turn.",
+      "originalType": "Creature — Frog Wizard",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Explorer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Gladiator",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historicbrawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "1db4b61e-f200-55cb-8ac6-770cdaf8fd1b"
+    },
+    {
+      "name": "Wilt-Leaf Cavaliers",
+      "manaCost": "{G/W}{G/W}{G/W}",
+      "cmc": 3.0,
+      "colors": ["G", "W"],
+      "colorIdentity": ["G", "W"],
+      "type": "Creature — Elf Knight",
+      "types": ["Creature"],
+      "subtypes": ["Elf", "Knight"],
+      "rarity": "Uncommon",
+      "set": "PRM",
+      "setName": "Magic Online Promos",
+      "text": "Vigilance",
+      "flavor": "Every elf in Shadowmoor is charged from birth with a terrible duty: to strike back against the ugliness and darkness, even though they are all around and seemingly without end.",
+      "artist": "Steven Belledin",
+      "number": "31441",
+      "power": "3",
+      "toughness": "4",
+      "layout": "normal",
+      "printings": ["DDG", "PDCI", "PRM", "SHM"],
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Restricted"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "1289caf8-ea0b-5393-bc87-cfe6ec49be8f"
+    },
+    {
+      "name": "Nils, Discipline Enforcer",
+      "manaCost": "{2}{W}",
+      "cmc": 3.0,
+      "colors": ["W"],
+      "colorIdentity": ["W"],
+      "type": "Legendary Creature — Human Cleric",
+      "supertypes": ["Legendary"],
+      "types": ["Creature"],
+      "subtypes": ["Human", "Cleric"],
+      "rarity": "Rare",
+      "set": "PRM",
+      "setName": "Magic Online Promos",
+      "text": "At the beginning of your end step, for each player, put a +1/+1 counter on up to one target creature that player controls.\nEach creature with one or more counters on it can't attack you or planeswalkers you control unless its controller pays {X}, where X is the number of counters on that creature.",
+      "artist": "Magali Villeneuve",
+      "number": "89976",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "rulings": [
+        {
+          "date": "2021-04-16",
+          "text": "For each player, choosing a target creature that player controls is optional."
+        },
+        {
+          "date": "2021-04-16",
+          "text": "All counters on a creature are considered when determining the value of X, not only +1/+1 counters."
+        },
+        {
+          "date": "2021-04-16",
+          "text": "Your opponents can choose not to pay to attack with a creature with one or more counters on it that attacks “if able.” If there’s no other player or planeswalker to attack, the creature simply doesn’t attack."
+        }
+      ],
+      "printings": ["C21", "PRM"],
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "3ee4973e-708e-5d26-80e4-16a2d937ed4d"
+    },
+    {
+      "name": "Ardent Militia",
+      "manaCost": "{4}{W}",
+      "cmc": 5.0,
+      "colors": ["W"],
+      "colorIdentity": ["W"],
+      "type": "Creature — Human Soldier",
+      "types": ["Creature"],
+      "subtypes": ["Human", "Soldier"],
+      "rarity": "Uncommon",
+      "set": "POR",
+      "setName": "Portal",
+      "text": "Vigilance",
+      "flavor": "Some fight for honor and some for gold, but the militia fights for hearth and home.",
+      "artist": "Mike Raabe",
+      "number": "4",
+      "power": "2",
+      "toughness": "5",
+      "layout": "normal",
+      "multiverseid": "4372",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4372&type=card",
+      "foreignNames": [
+        {
+          "name": "Heißblütige Miliz",
+          "text": "Die Heißblütige Miliz wird beim Angreifen nicht getappt.",
+          "type": "Beschwörungszauber",
+          "flavor": null,
+          "language": "German",
+          "multiverseid": null
+        },
+        {
+          "name": "Milicia enfervorecida",
+          "flavor": null,
+          "language": "Spanish",
+          "multiverseid": null
+        },
+        {
+          "name": "Milice ardente",
+          "flavor": null,
+          "language": "French",
+          "multiverseid": null
+        },
+        {
+          "name": "献身的民兵団",
+          "flavor": null,
+          "language": "Japanese",
+          "multiverseid": null
+        }
+      ],
+      "printings": ["6ED", "7ED", "8ED", "POR", "PSAL", "S99", "WTH"],
+      "originalText": "Attacking doesn't cause Ardent Militia to tap.",
+      "originalType": "Summon - Creature",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pauper",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "d99d4140-3d3f-55aa-85b7-ca86b0c91156"
+    },
+    {
+      "name": "Femeref Archers",
+      "manaCost": "{2}{G}",
+      "cmc": 3.0,
+      "colors": ["G"],
+      "colorIdentity": ["G"],
+      "type": "Creature — Human Archer",
+      "types": ["Creature"],
+      "subtypes": ["Human", "Archer"],
+      "rarity": "Uncommon",
+      "set": "6ED",
+      "setName": "Classic Sixth Edition",
+      "text": "{T}: Femeref Archers deals 4 damage to target attacking creature with flying.",
+      "flavor": "\"They say a Zhalfirin archer can split the eye of a griffin. Nonsense, of course; they have no faith to guide their darts.\"\n—Nuru, Femeref archer",
+      "artist": "William Donohoe",
+      "number": "229",
+      "power": "2",
+      "toughness": "2",
+      "layout": "normal",
+      "multiverseid": "14698",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=14698&type=card",
+      "foreignNames": [
+        {
+          "name": "Bogenschützen der Femeref",
+          "text": "{T}: Der Bogenschütze der Femeref fügt einer angreifenden fliegenden Kreatur Deiner Wahl 4 Schadenspunkte zu.",
+          "type": "Kreatur — Bogenschütze",
+          "flavor": null,
+          "language": "German",
+          "multiverseid": null
+        },
+        {
+          "name": "Arqueros de Femeref",
+          "flavor": null,
+          "language": "Spanish",
+          "multiverseid": null
+        },
+        {
+          "name": "Archers fémeirefs",
+          "flavor": null,
+          "language": "French",
+          "multiverseid": null
+        },
+        {
+          "name": "Arcieri di Femeref",
+          "flavor": null,
+          "language": "Italian",
+          "multiverseid": null
+        },
+        {
+          "name": "フェメレフの射手",
+          "flavor": null,
+          "language": "Japanese",
+          "multiverseid": null
+        },
+        {
+          "name": "Arqueiros de Femeref",
+          "flavor": null,
+          "language": "Portuguese (Brazil)",
+          "multiverseid": null
+        }
+      ],
+      "printings": ["10E", "6ED", "7ED", "MIR"],
+      "originalText": "oc\nT: Femeref Archers deals 4 damage to target attacking creature with flying.",
+      "originalType": "Creature - Soldier",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Paupercommander",
+          "legality": "Restricted"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Predh",
+          "legality": "Legal"
+        },
+        {
+          "format": "Premodern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "9e084e17-1aa9-5364-a90f-8695e563616d"
+    },
+    {
+      "name": "Jhoira, Ageless Innovator",
+      "manaCost": "{U}{R}",
+      "cmc": 2.0,
+      "colors": ["R", "U"],
+      "colorIdentity": ["R", "U"],
+      "type": "Legendary Creature — Human Artificer",
+      "supertypes": ["Legendary"],
+      "types": ["Creature"],
+      "subtypes": ["Human", "Artificer"],
+      "rarity": "Rare",
+      "set": "DMU",
+      "setName": "Dominaria United",
+      "text": "{T}: Put two ingenuity counters on Jhoira, Ageless Innovator, then you may put an artifact card with mana value X or less from your hand onto the battlefield, where X is the number of ingenuity counters on Jhoira.",
+      "artist": "Lisa Heidhoff",
+      "number": "301",
+      "power": "2",
+      "toughness": "3",
+      "layout": "normal",
+      "multiverseid": "578054",
+      "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=578054&type=card",
+      "variations": [
+        "e5a7a432-d7e7-54ef-84fb-847fd65ac0de",
+        "2420a537-a9a0-50e7-b5f1-33a0e9a25768"
+      ],
+      "rulings": [
+        {
+          "date": "2022-09-09",
+          "text": "If Jhoira, Ageless Innovator isn’t on the battlefield as the activated ability resolves, you won’t be able to put any ingenuity counters on it. However, you can still put an artifact card from your hand onto the battlefield. Use the number of ingenuity counters that were on Jhoira before it left the battlefield to determine the value of X."
+        }
+      ],
+      "foreignNames": [
+        {
+          "name": "Jhoira, zeitlose Erfinderin",
+          "text": "{T}: Lege zwei Innovationsmarken auf Jhoira, zeitlose Erfinderin. Dann kannst du eine Artefaktkarte mit Manabetrag X oder weniger aus deiner Hand ins Spiel bringen, wobei X gleich der Anzahl an Innovationsmarken auf Jhoira ist.",
+          "type": "Legendäre Kreatur — Mensch, Handwerker",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=578095&type=card",
+          "language": "German",
+          "multiverseid": 578095
+        },
+        {
+          "name": "Jhoira, innovadora atemporal",
+          "text": "{T}: Pon dos contadores de ingenio sobre Jhoira, innovadora atemporal. Luego, puedes poner en el campo de batalla una carta de artefacto con valor de maná de X o menos de tu mano, donde X es la cantidad de contadores de ingenio sobre Jhoira.",
+          "type": "Criatura legendaria — Artífice humano",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=578136&type=card",
+          "language": "Spanish",
+          "multiverseid": 578136
+        },
+        {
+          "name": "Djoïra, innovatrice sans âge",
+          "text": "{T} : Mettez deux marqueurs « ingénuité » sur Djoïra, innovatrice sans âge, puis vous pouvez mettre sur le champ de bataille une carte d'artefact avec une valeur de mana inférieure ou égale à X depuis votre main, X étant le nombre de marqueurs « ingénuité » sur Djoïra.",
+          "type": "Créature légendaire : humain et artificier",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=578177&type=card",
+          "language": "French",
+          "multiverseid": 578177
+        },
+        {
+          "name": "Jhoira, Innovatrice Eterna",
+          "text": "{T}: Metti due segnalini ingegno su Jhoira, Innovatrice Eterna, poi puoi mettere sul campo di battaglia una carta artefatto con valore di mana pari o inferiore a X dalla tua mano, dove X è il numero di segnalini ingegno su Jhoira.",
+          "type": "Creatura Leggendaria — Artefice Umano",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=578218&type=card",
+          "language": "Italian",
+          "multiverseid": 578218
+        },
+        {
+          "name": "老いざる革新者、ジョイラ",
+          "text": "{T}：老いざる革新者、ジョイラの上に発明カウンター２個を置く。その後、あなたの手札にありマナ総量がＸ以下であるアーティファクト・カード１枚を戦場に出してもよい。Ｘは老いざる革新者、ジョイラの上にある発明カウンターの数に等しい。",
+          "type": "伝説のクリーチャー — 人間・工匠",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=578259&type=card",
+          "language": "Japanese",
+          "multiverseid": 578259
+        },
+        {
+          "name": "Jhoira, Inovadora Eterna",
+          "text": "{T}: Coloque dois marcadores de engenhosidade em Jhoira, Inovadora Eterna. Depois, você pode colocar no campo de batalha um card de artefato com valor de mana igual ou inferior a X da sua mão, sendo X o número de marcadores de engenhosidade em Jhoira.",
+          "type": "Criatura Lendária — Humano Artesão",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=578341&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 578341
+        },
+        {
+          "name": "长生发明家尤依拉",
+          "text": "{T}：在长生发明家尤依拉上放置两个精妙指示物，然后你可以将一张法术力值等于或小于X的神器牌从你手上放进战场，X为尤依拉上精妙指示物的数量。",
+          "type": "传奇生物 ～人类／神器师",
+          "flavor": null,
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=578423&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 578423
+        }
+      ],
+      "printings": ["DMU", "PDMU"],
+      "originalText": "{T}: Put two ingenuity counters on Jhoira, Ageless Innovator, then you may put an artifact card with mana value X or less from your hand onto the battlefield, where X is the number of ingenuity counters on Jhoira.",
+      "originalType": "Legendary Creature — Human Artificer",
+      "legalities": [
+        {
+          "format": "Alchemy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Brawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Duel",
+          "legality": "Legal"
+        },
+        {
+          "format": "Explorer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Future",
+          "legality": "Legal"
+        },
+        {
+          "format": "Gladiator",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Historicbrawl",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Penny",
+          "legality": "Legal"
+        },
+        {
+          "format": "Pioneer",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "id": "33ada028-58ea-5b50-8f1b-b22e5fa49049"
+    }
+  ]
+}
